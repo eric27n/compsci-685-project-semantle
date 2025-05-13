@@ -1,0 +1,711 @@
+{
+  "game_id": 165,
+  "answer": "step",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.05779999867081642,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.14219999313354492,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.1615999937057495,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.21610000729560852,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.21060000360012054,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": 0.133200004696846,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "belief",
+      "similarity": 0.08150000125169754,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "perception",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "understanding",
+      "similarity": 0.1362999975681305,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "insight",
+      "similarity": 0.17139999568462372,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "intuition",
+      "similarity": 0.09260000288486481,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "knowledge",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "theory",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "creativity",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "mind",
+      "similarity": 0.07769999653100967,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "awareness",
+      "similarity": 0.060100000351667404,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "wisdom",
+      "similarity": 0.08020000159740448,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "analysis",
+      "similarity": 0.019999999552965164,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "intellect",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "reflection",
+      "similarity": 0.16910000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "philosophy",
+      "similarity": 0.08940000087022781,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "epiphany",
+      "similarity": 0.14190000295639038,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "realization",
+      "similarity": 0.16099999845027924,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "cognition",
+      "similarity": -0.009399999864399433,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "contemplation",
+      "similarity": 0.06109999865293503,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "innovation",
+      "similarity": 0.15289999544620514,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "interpretation",
+      "similarity": 0.05770000070333481,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "impression",
+      "similarity": 0.16699999570846558,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "intuition",
+      "similarity": 0.09260000288486481,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "intelligence",
+      "similarity": 0.011099999770522118,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "abstraction",
+      "similarity": 0.0828000009059906,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "consciousness",
+      "similarity": 0.023099999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "perception",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "conception",
+      "similarity": 0.0674000009894371,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "perception",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "vision",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "perspective",
+      "similarity": 0.17949999868869781,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "foresight",
+      "similarity": 0.1656000018119812,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "perception",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "strategy",
+      "similarity": 0.18790000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "plan",
+      "similarity": 0.17430000007152557,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "plan",
+      "similarity": 0.17430000007152557,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "dream",
+      "similarity": 0.18539999425411224,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "inspiration",
+      "similarity": 0.1673000007867813,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "hypothesis",
+      "similarity": 0.09000000357627869,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "insight",
+      "similarity": 0.17139999568462372,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "perception",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "imagination",
+      "similarity": 0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "innovation",
+      "similarity": 0.15289999544620514,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "goal",
+      "similarity": 0.21889999508857727,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "objective",
+      "similarity": 0.20829999446868896,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "intention",
+      "similarity": 0.21690000593662262,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "motivation",
+      "similarity": 0.23250000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "desire",
+      "similarity": 0.11580000072717667,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "intention",
+      "similarity": 0.21690000593662262,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "desire",
+      "similarity": 0.11580000072717667,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "desire",
+      "similarity": 0.11580000072717667,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "motivation",
+      "similarity": 0.23250000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "determination",
+      "similarity": 0.15000000596046448,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "resolve",
+      "similarity": 0.14139999449253082,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "drive",
+      "similarity": 0.21449999511241913,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "reason",
+      "similarity": 0.21170000731945038,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "conception",
+      "similarity": 0.0674000009894371,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "objective",
+      "similarity": 0.20829999446868896,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "aim",
+      "similarity": 0.33219999074935913,
+      "rank": 83
+    },
+    {
+      "guess_number": 85,
+      "word": "target",
+      "similarity": 0.1412000060081482,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "focus",
+      "similarity": 0.22030000388622284,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "objective",
+      "similarity": 0.20829999446868896,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "aim",
+      "similarity": 0.33219999074935913,
+      "rank": 83
+    },
+    {
+      "guess_number": 89,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "endeavor",
+      "similarity": 0.265500009059906,
+      "rank": 576
+    },
+    {
+      "guess_number": 91,
+      "word": "mission",
+      "similarity": 0.15440000593662262,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "pursuit",
+      "similarity": 0.08429999649524689,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "achievement",
+      "similarity": 0.2578999996185303,
+      "rank": 735
+    },
+    {
+      "guess_number": 96,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "objective",
+      "similarity": 0.20829999446868896,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "initiative",
+      "similarity": 0.30480000376701355,
+      "rank": 179
+    },
+    {
+      "guess_number": 99,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "attempt",
+      "similarity": 0.17679999768733978,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "enterprise",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "success",
+      "similarity": 0.19359999895095825,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "effort",
+      "similarity": 0.29260000586509705,
+      "rank": 249
+    },
+    {
+      "guess_number": 112,
+      "word": "progress",
+      "similarity": 0.322299987077713,
+      "rank": 111
+    },
+    {
+      "guess_number": 113,
+      "word": "accomplishment",
+      "similarity": 0.3059000074863434,
+      "rank": 171
+    },
+    {
+      "guess_number": 114,
+      "word": "pursuit",
+      "similarity": 0.08429999649524689,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "purpose",
+      "similarity": 0.10409999638795853,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "ambition",
+      "similarity": 0.1784999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "aspiration",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 117,
+  "total_unique_guesses": 67
+}

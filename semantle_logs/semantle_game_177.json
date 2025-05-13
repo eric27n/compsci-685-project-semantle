@@ -1,0 +1,693 @@
+{
+  "game_id": 177,
+  "answer": "accounting",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.048500001430511475,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": -0.03700000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.0868000015616417,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": -0.026599999517202377,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": -0.014600000344216824,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "mind",
+      "similarity": 0.05689999833703041,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intelligence",
+      "similarity": 0.13259999454021454,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "cognition",
+      "similarity": 0.027300000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "brain",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "knowledge",
+      "similarity": 0.16689999401569366,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "wisdom",
+      "similarity": 0.03869999945163727,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "learning",
+      "similarity": 0.18080000579357147,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "education",
+      "similarity": 0.13269999623298645,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "understanding",
+      "similarity": 0.1517000049352646,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "perception",
+      "similarity": 0.16529999673366547,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "awareness",
+      "similarity": -0.006399999838322401,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "insight",
+      "similarity": 0.07959999889135361,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "reasoning",
+      "similarity": 0.12479999661445618,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "comprehension",
+      "similarity": 0.1273999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "logic",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "intuition",
+      "similarity": 0.11980000138282776,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "memory",
+      "similarity": 0.03880000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "consciousness",
+      "similarity": -0.027400000020861626,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "analysis",
+      "similarity": 0.23420000076293945,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "research",
+      "similarity": 0.17319999635219574,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "experiment",
+      "similarity": -0.0031999999191612005,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "theory",
+      "similarity": 0.10589999705553055,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "data",
+      "similarity": 0.15539999306201935,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "information",
+      "similarity": 0.12189999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "study",
+      "similarity": 0.16449999809265137,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "evaluation",
+      "similarity": 0.20810000598430634,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "assessment",
+      "similarity": 0.2092999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "examination",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "measurement",
+      "similarity": 0.31310001015663147,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "experiment",
+      "similarity": -0.0031999999191612005,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "survey",
+      "similarity": 0.13660000264644623,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "metrics",
+      "similarity": 0.1931000053882599,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "experiment",
+      "similarity": -0.0031999999191612005,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "quantification",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "diagnosis",
+      "similarity": 0.1800999939441681,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "test",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "calculation",
+      "similarity": 0.31150001287460327,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "analytics",
+      "similarity": 0.20970000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "estimation",
+      "similarity": 0.24799999594688416,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "computation",
+      "similarity": 0.2791999876499176,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "statistics",
+      "similarity": 0.17949999868869781,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "appraisal",
+      "similarity": 0.26510000228881836,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "calibration",
+      "similarity": 0.2603999972343445,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "benchmarking",
+      "similarity": 0.24799999594688416,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "testing",
+      "similarity": 0.1054999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "precision",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "mathematics",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "precision",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "accuracy",
+      "similarity": 0.10740000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "quantification",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "calculus",
+      "similarity": 0.16099999845027924,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "quantification",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "metric",
+      "similarity": 0.20149999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "quantification",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "quantification",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "quantitative",
+      "similarity": 0.21279999613761902,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "geometry",
+      "similarity": 0.11259999871253967,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "surveying",
+      "similarity": 0.14489999413490295,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "analytics",
+      "similarity": 0.20970000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "surveying",
+      "similarity": 0.14489999413490295,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "numeracy",
+      "similarity": 0.16140000522136688,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "survey",
+      "similarity": 0.13660000264644623,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "measurement",
+      "similarity": 0.31310001015663147,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "precision",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "assessment",
+      "similarity": 0.2092999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "forecasting",
+      "similarity": 0.2827000021934509,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "simulation",
+      "similarity": 0.0997999981045723,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "prediction",
+      "similarity": 0.10670000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "prediction",
+      "similarity": 0.10670000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "scoring",
+      "similarity": 0.1177000030875206,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "analytics",
+      "similarity": 0.20970000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "calibration",
+      "similarity": 0.2603999972343445,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "assessment",
+      "similarity": 0.2092999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "algorithmic",
+      "similarity": 0.1264999955892563,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "modeling",
+      "similarity": 0.14569999277591705,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "prediction",
+      "similarity": 0.10670000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "prediction",
+      "similarity": 0.10670000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "algorithm",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 114,
+  "total_unique_guesses": 64
+}

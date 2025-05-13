@@ -1,0 +1,597 @@
+{
+  "game_id": 81,
+  "answer": "note",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "entity",
+      "similarity": -0.01720000058412552,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "object",
+      "similarity": 0.12960000336170197,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thing",
+      "similarity": 0.17970000207424164,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "item",
+      "similarity": 0.1754000037908554,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.06449999660253525,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "artifact",
+      "similarity": 0.14409999549388885,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "product",
+      "similarity": -0.003800000064074993,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "tool",
+      "similarity": 0.08489999920129776,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "instrument",
+      "similarity": 0.1867000013589859,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "machine",
+      "similarity": 0.05009999871253967,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "apparatus",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "implement",
+      "similarity": 0.013000000268220901,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "gadget",
+      "similarity": 0.12489999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "contraption",
+      "similarity": 0.06120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "appliance",
+      "similarity": -0.06210000067949295,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "utensil",
+      "similarity": 0.08730000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "instrumentation",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "contrivance",
+      "similarity": 0.026900000870227814,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "component",
+      "similarity": 0.12409999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "material",
+      "similarity": 0.18019999563694,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "accessory",
+      "similarity": -0.0024999999441206455,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "structure",
+      "similarity": 0.04170000180602074,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "hardware",
+      "similarity": 0.08449999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "craft",
+      "similarity": 0.003800000064074993,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "commodity",
+      "similarity": 0.12030000239610672,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "manufacture",
+      "similarity": -0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "assembly",
+      "similarity": 0.0494999997317791,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "apparatus",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "construction",
+      "similarity": -0.0003000000142492354,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "manufacture",
+      "similarity": -0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "technology",
+      "similarity": 0.004100000020116568,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "supply",
+      "similarity": 0.013100000098347664,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "contraband",
+      "similarity": -0.0044999998062849045,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "manufacture",
+      "similarity": -0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "innovation",
+      "similarity": -0.00039999998989515007,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "container",
+      "similarity": 0.06970000267028809,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "widget",
+      "similarity": 0.066600002348423,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "contraption",
+      "similarity": 0.06120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "invention",
+      "similarity": 0.024900000542402267,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "item",
+      "similarity": 0.1754000037908554,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "fabric",
+      "similarity": -0.021900000050663948,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "gear",
+      "similarity": 0.08659999817609787,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "utility",
+      "similarity": -0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "manufacture",
+      "similarity": -0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "furnishing",
+      "similarity": 0.04780000075697899,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "resource",
+      "similarity": 0.006099999882280827,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "fixture",
+      "similarity": 0.06920000165700912,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "apparel",
+      "similarity": -0.006899999920278788,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "contrivance",
+      "similarity": 0.026900000870227814,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "substance",
+      "similarity": 0.09610000252723694,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "apparatus",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "machinery",
+      "similarity": 0.04280000180006027,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "manufacture",
+      "similarity": -0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "furniture",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "apparel",
+      "similarity": -0.006899999920278788,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "instrument",
+      "similarity": 0.1867000013589859,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "apparatus",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "mechanism",
+      "similarity": 0.01730000041425228,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "equipment",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "device",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 98,
+  "total_unique_guesses": 48
+}

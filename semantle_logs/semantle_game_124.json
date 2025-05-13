@@ -1,0 +1,513 @@
+{
+  "game_id": 124,
+  "answer": "bucket",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.04039999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.14249999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.12790000438690186,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "notion",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mind",
+      "similarity": 0.1031000018119812,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "belief",
+      "similarity": 0.04179999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "imagination",
+      "similarity": 0.04520000144839287,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "knowledge",
+      "similarity": 0.03449999913573265,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intuition",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "consciousness",
+      "similarity": 0.018400000408291817,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "understanding",
+      "similarity": -0.013399999588727951,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "awareness",
+      "similarity": 0.04540000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "opinion",
+      "similarity": -0.003000000026077032,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "creativity",
+      "similarity": 0.0812000036239624,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intellect",
+      "similarity": 0.00800000037997961,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "cognition",
+      "similarity": 0.0272000003606081,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "philosophy",
+      "similarity": 0.06340000033378601,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "reflection",
+      "similarity": 0.05139999836683273,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "reasoning",
+      "similarity": 0.0754999965429306,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "intelligence",
+      "similarity": -0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "wisdom",
+      "similarity": 0.05990000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "logic",
+      "similarity": 0.04039999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "perception",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "inspiration",
+      "similarity": 0.04100000113248825,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "innovation",
+      "similarity": 0.030700000002980232,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "mental",
+      "similarity": 0.027699999511241913,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "conception",
+      "similarity": 0.027400000020861626,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "brain",
+      "similarity": 0.04960000142455101,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "intelligence",
+      "similarity": -0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "epiphany",
+      "similarity": 0.17599999904632568,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "realization",
+      "similarity": 0.09200000017881393,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "enlightenment",
+      "similarity": 0.053300000727176666,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "epistemology",
+      "similarity": 0.028200000524520874,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "discovery",
+      "similarity": 0.02160000056028366,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "cognition",
+      "similarity": 0.0272000003606081,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "awareness",
+      "similarity": 0.04540000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "insight",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 84,
+  "total_unique_guesses": 34
+}

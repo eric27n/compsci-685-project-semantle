@@ -1,0 +1,573 @@
+{
+  "game_id": 97,
+  "answer": "repeatedly",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.10480000078678131,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.04500000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": 0.01850000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.11140000075101852,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "concept",
+      "similarity": 0.06710000336170197,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "philosophy",
+      "similarity": 0.07980000227689743,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "perception",
+      "similarity": 0.15039999783039093,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "conviction",
+      "similarity": 0.11540000140666962,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "faith",
+      "similarity": 0.1671999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "understanding",
+      "similarity": 0.061400000005960464,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "spirituality",
+      "similarity": 0.029200000688433647,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "mindset",
+      "similarity": 0.07490000128746033,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "opinion",
+      "similarity": 0.047600001096725464,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "worldview",
+      "similarity": 0.06560000032186508,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "cognition",
+      "similarity": -0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "trust",
+      "similarity": 0.11810000240802765,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "doctrine",
+      "similarity": 0.13519999384880066,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "beliefs",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "ideology",
+      "similarity": 0.10779999941587448,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "principle",
+      "similarity": 0.1266999989748001,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "confidence",
+      "similarity": 0.15320000052452087,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "perspective",
+      "similarity": -0.039799999445676804,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "value",
+      "similarity": 0.0414000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "religion",
+      "similarity": 0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "notion",
+      "similarity": 0.22310000658035278,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "theory",
+      "similarity": 0.18219999969005585,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "attitude",
+      "similarity": 0.10949999839067459,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "certainty",
+      "similarity": 0.13899999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "perspective",
+      "similarity": -0.039799999445676804,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "hypothesis",
+      "similarity": 0.09440000355243683,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "conviction",
+      "similarity": 0.11540000140666962,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "knowledge",
+      "similarity": 0.05180000141263008,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "conception",
+      "similarity": 0.0032999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "knowledge",
+      "similarity": 0.05180000141263008,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "convictions",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "interpretation",
+      "similarity": 0.04259999841451645,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "interpretation",
+      "similarity": 0.04259999841451645,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "wisdom",
+      "similarity": 0.07540000230073929,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "persuasion",
+      "similarity": -9.999999747378752e-05,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "faith",
+      "similarity": 0.1671999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "interpretation",
+      "similarity": 0.04259999841451645,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "conception",
+      "similarity": 0.0032999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "dogma",
+      "similarity": 0.16130000352859497,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "interpretation",
+      "similarity": 0.04259999841451645,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "beliefs",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "impression",
+      "similarity": 0.047200001776218414,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "credence",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "beliefsystem",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "perspective",
+      "similarity": -0.039799999445676804,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "assumption",
+      "similarity": 0.05939999967813492,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "belief",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "insight",
+      "similarity": -0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "intuition",
+      "similarity": 0.05469999834895134,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 94,
+  "total_unique_guesses": 44
+}

@@ -1,0 +1,297 @@
+{
+  "game_id": 28,
+  "answer": "ideological",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.1451999992132187,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.16500000655651093,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.1039000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "notion",
+      "similarity": 0.22280000150203705,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "belief",
+      "similarity": 0.22370000183582306,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "opinion",
+      "similarity": 0.25609999895095825,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": 0.23090000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "view",
+      "similarity": 0.2287999987602234,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "perspective",
+      "similarity": 0.1736000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "judgment",
+      "similarity": 0.16449999809265137,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "insight",
+      "similarity": 0.09700000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "understanding",
+      "similarity": 0.19629999995231628,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "interpretation",
+      "similarity": 0.23019999265670776,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "conclusion",
+      "similarity": 0.12929999828338623,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "attitude",
+      "similarity": 0.2142000049352646,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "assumption",
+      "similarity": 0.18690000474452972,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "perception",
+      "similarity": 0.23090000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "conviction",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "impression",
+      "similarity": 0.1137000024318695,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "perception",
+      "similarity": 0.23090000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "idea",
+      "similarity": 0.16500000655651093,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "mentality",
+      "similarity": 0.2606000006198883,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "sentiment",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "mindset",
+      "similarity": 0.26429998874664307,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intuition",
+      "similarity": 0.22210000455379486,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "worldview",
+      "similarity": 0.5199000239372253,
+      "rank": 68
+    },
+    {
+      "guess_number": 27,
+      "word": "philosophy",
+      "similarity": 0.31439998745918274,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "ideology",
+      "similarity": 0.746999979019165,
+      "rank": 1
+    },
+    {
+      "guess_number": 29,
+      "word": "doctrine",
+      "similarity": 0.44609999656677246,
+      "rank": 662
+    },
+    {
+      "guess_number": 30,
+      "word": "principle",
+      "similarity": 0.2842999994754791,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "dogma",
+      "similarity": 0.5033000111579895,
+      "rank": 123
+    },
+    {
+      "guess_number": 32,
+      "word": "creed",
+      "similarity": 0.3714999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "theory",
+      "similarity": 0.25040000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "ethos",
+      "similarity": 0.3292999863624573,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "axiom",
+      "similarity": 0.18729999661445618,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "tenet",
+      "similarity": 0.19869999587535858,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "orthodoxy",
+      "similarity": 0.5059999823570251,
+      "rank": 114
+    },
+    {
+      "guess_number": 38,
+      "word": "conviction",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "belief_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "conviction",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "conviction",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "belief_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "values",
+      "similarity": 0.21629999577999115,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "faith",
+      "similarity": 0.2401999980211258,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "paradigm",
+      "similarity": 0.30809998512268066,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "belief_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "conviction",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "ideological",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 48,
+  "total_unique_guesses": 39
+}

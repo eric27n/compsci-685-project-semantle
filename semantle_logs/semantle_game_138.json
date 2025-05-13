@@ -1,0 +1,45 @@
+{
+  "game_id": 138,
+  "answer": "consciousness",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.30140000581741333,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.2619999945163727,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.1826999932527542,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sentiment",
+      "similarity": 0.2303999960422516,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mind",
+      "similarity": 0.32820001244544983,
+      "rank": 753
+    },
+    {
+      "guess_number": 6,
+      "word": "consciousness",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 6,
+  "total_unique_guesses": 6
+}

@@ -1,0 +1,531 @@
+{
+  "game_id": 67,
+  "answer": "absolute",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.13120000064373016,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.1062999963760376,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": -0.03539999946951866,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.1485999971628189,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.11869999766349792,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "concept",
+      "similarity": 0.10670000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mind",
+      "similarity": 0.22310000658035278,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.05510000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "intellect",
+      "similarity": 0.23260000348091125,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "knowledge",
+      "similarity": 0.08950000256299973,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "reason",
+      "similarity": 0.2257000058889389,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "wisdom",
+      "similarity": 0.1517000049352646,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "logic",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "philosophy",
+      "similarity": 0.13359999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "analysis",
+      "similarity": 0.13019999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "intuition",
+      "similarity": 0.20000000298023224,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "understanding",
+      "similarity": 0.16660000383853912,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "rationality",
+      "similarity": 0.33820000290870667,
+      "rank": 223
+    },
+    {
+      "guess_number": 21,
+      "word": "rationalism",
+      "similarity": 0.15729999542236328,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "reasoning",
+      "similarity": 0.1492999941110611,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "perception",
+      "similarity": 0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "judgment",
+      "similarity": 0.14010000228881836,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "rationality",
+      "similarity": 0.33820000290870667,
+      "rank": 223
+    },
+    {
+      "guess_number": 27,
+      "word": "belief",
+      "similarity": 0.18870000541210175,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "rational",
+      "similarity": 0.2678000032901764,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "logic",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "reasonableness",
+      "similarity": 0.2797999978065491,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "critical thinking",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "cognitive",
+      "similarity": 0.1005999967455864,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "consciousness",
+      "similarity": 0.05510000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "mental",
+      "similarity": 0.11890000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "logic",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "consciousness",
+      "similarity": 0.05510000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "logic",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "argument",
+      "similarity": 0.12639999389648438,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "critical",
+      "similarity": 0.1151999980211258,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "decision",
+      "similarity": 0.0617000013589859,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "insight",
+      "similarity": 0.0885000005364418,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "comprehension",
+      "similarity": 0.21850000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "deduction",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "logic",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "thinking",
+      "similarity": 0.04129999876022339,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "intelligence",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "cognition",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 87,
+  "total_unique_guesses": 37
+}

@@ -1,0 +1,135 @@
+{
+  "game_id": 17,
+  "answer": "surgeon",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": -0.039400000125169754,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.018699999898672104,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.04969999939203262,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.0908999964594841,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "emotion",
+      "similarity": 0.027400000020861626,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "intelligence",
+      "similarity": 0.12559999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "cognition",
+      "similarity": 0.08219999819993973,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "brain",
+      "similarity": 0.2685999870300293,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "neuroscience",
+      "similarity": 0.26600000262260437,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "psychology",
+      "similarity": 0.16779999434947968,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "memory",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "consciousness",
+      "similarity": 0.09700000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "neurology",
+      "similarity": 0.4074999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "neuron",
+      "similarity": 0.08049999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "cerebrum",
+      "similarity": 0.18880000710487366,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "neurobiology",
+      "similarity": 0.19609999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "neurotransmitter",
+      "similarity": 0.0551999993622303,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "neurologist",
+      "similarity": 0.6096000075340271,
+      "rank": 29
+    },
+    {
+      "guess_number": 19,
+      "word": "neurosurgeon",
+      "similarity": 0.7660999894142151,
+      "rank": 2
+    },
+    {
+      "guess_number": 20,
+      "word": "neurosurgery",
+      "similarity": 0.6154000163078308,
+      "rank": 22
+    },
+    {
+      "guess_number": 21,
+      "word": "surgeon",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 21,
+  "total_unique_guesses": 21
+}

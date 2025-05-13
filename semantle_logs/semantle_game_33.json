@@ -1,0 +1,729 @@
+{
+  "game_id": 33,
+  "answer": "bold",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.14429999887943268,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.017500000074505806,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.05950000137090683,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.09390000253915787,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "perception",
+      "similarity": 0.03660000115633011,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "idea",
+      "similarity": 0.08479999750852585,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mind",
+      "similarity": 0.19059999287128448,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "awareness",
+      "similarity": 0.07699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "cognition",
+      "similarity": -0.011099999770522118,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "brain",
+      "similarity": 0.04619999974966049,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "psychology",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "intuition",
+      "similarity": 0.15620000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "imagination",
+      "similarity": 0.2644999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "inspiration",
+      "similarity": 0.24410000443458557,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "innovation",
+      "similarity": 0.2287999987602234,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "art",
+      "similarity": 0.11890000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "genius",
+      "similarity": 0.2955000102519989,
+      "rank": 839
+    },
+    {
+      "guess_number": 22,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "insight",
+      "similarity": 0.08269999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "brilliance",
+      "similarity": 0.23680000007152557,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "wisdom",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "talent",
+      "similarity": 0.1542000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "inventiveness",
+      "similarity": 0.23669999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "vision",
+      "similarity": 0.25270000100135803,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "genius",
+      "similarity": 0.2955000102519989,
+      "rank": 839
+    },
+    {
+      "guess_number": 31,
+      "word": "ingenuity",
+      "similarity": 0.2605000138282776,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "cleverness",
+      "similarity": 0.18619999289512634,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "novelty",
+      "similarity": 0.11550000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "originality",
+      "similarity": 0.23280000686645508,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "expression",
+      "similarity": 0.14790000021457672,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "inventor",
+      "similarity": -0.028200000524520874,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "insight",
+      "similarity": 0.08269999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "cognition",
+      "similarity": -0.011099999770522118,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "intellectual",
+      "similarity": 0.1137000024318695,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "knowledge",
+      "similarity": -0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "thoughtfulness",
+      "similarity": 0.2175000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "inventor",
+      "similarity": -0.028200000524520874,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "concept",
+      "similarity": 0.13740000128746033,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "insight",
+      "similarity": 0.08269999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "genius",
+      "similarity": 0.2955000102519989,
+      "rank": 839
+    },
+    {
+      "guess_number": 61,
+      "word": "giftedness",
+      "similarity": 0.04089999943971634,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "cognition",
+      "similarity": -0.011099999770522118,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "artistry",
+      "similarity": 0.18860000371932983,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "creativity",
+      "similarity": 0.27379998564720154,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "insightfulness",
+      "similarity": 0.23280000686645508,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "smart",
+      "similarity": 0.38530001044273376,
+      "rank": 63
+    },
+    {
+      "guess_number": 68,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "wit",
+      "similarity": 0.18850000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "intelligence",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "cunning",
+      "similarity": 0.30889999866485596,
+      "rank": 491
+    },
+    {
+      "guess_number": 77,
+      "word": "savvy",
+      "similarity": 0.2822999954223633,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "perception",
+      "similarity": 0.03660000115633011,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "sharpness",
+      "similarity": 0.09489999711513519,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "bright",
+      "similarity": 0.32760000228881836,
+      "rank": 267
+    },
+    {
+      "guess_number": 81,
+      "word": "intelligent",
+      "similarity": 0.2459000051021576,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "perception",
+      "similarity": 0.03660000115633011,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "wisdom",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "shrewd",
+      "similarity": 0.3747999966144562,
+      "rank": 81
+    },
+    {
+      "guess_number": 85,
+      "word": "clever",
+      "similarity": 0.36629998683929443,
+      "rank": 98
+    },
+    {
+      "guess_number": 86,
+      "word": "resourceful",
+      "similarity": 0.28369998931884766,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "astute",
+      "similarity": 0.275299996137619,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "wisdom",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "wisdom",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "brilliant",
+      "similarity": 0.34450000524520874,
+      "rank": 172
+    },
+    {
+      "guess_number": 91,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "wisdom",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "wise",
+      "similarity": 0.2773999869823456,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "perceptive",
+      "similarity": 0.2298000007867813,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "talented",
+      "similarity": 0.21729999780654907,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "adept",
+      "similarity": 0.13169999420642853,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "inventive",
+      "similarity": 0.392300009727478,
+      "rank": 58
+    },
+    {
+      "guess_number": 99,
+      "word": "innovative",
+      "similarity": 0.305400013923645,
+      "rank": 567
+    },
+    {
+      "guess_number": 100,
+      "word": "sagacity",
+      "similarity": 0.23019999265670776,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "quick-witted",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "analytical",
+      "similarity": 0.08900000154972076,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "ingenious",
+      "similarity": 0.2703000009059906,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "adeptness",
+      "similarity": 0.11890000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "ingeniousness",
+      "similarity": 0.27970001101493835,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "crafty",
+      "similarity": 0.2680000066757202,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "nifty",
+      "similarity": 0.20890000462532043,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "insightful",
+      "similarity": 0.26440000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "intuition",
+      "similarity": 0.15620000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "creative",
+      "similarity": 0.33869999647140503,
+      "rank": 194
+    },
+    {
+      "guess_number": 112,
+      "word": "ingenious",
+      "similarity": 0.2703000009059906,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "astuteness",
+      "similarity": 0.20970000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "aptitude",
+      "similarity": 0.07320000231266022,
+      "rank": -1
+    },
+    {
+      "guess_number": 118,
+      "word": "ingenious",
+      "similarity": 0.2703000009059906,
+      "rank": -1
+    },
+    {
+      "guess_number": 119,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 120,
+      "word": "intellect",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 120,
+  "total_unique_guesses": 70
+}

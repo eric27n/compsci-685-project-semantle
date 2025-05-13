@@ -1,0 +1,729 @@
+{
+  "game_id": 168,
+  "answer": "testimony",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.18289999663829803,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.09260000288486481,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "happiness",
+      "similarity": 0.004000000189989805,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "joy",
+      "similarity": 0.021299999207258224,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "love",
+      "similarity": 0.03779999911785126,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "sadness",
+      "similarity": 0.03240000084042549,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "anger",
+      "similarity": 0.0746999979019165,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "sentiment",
+      "similarity": 0.16910000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "attitude",
+      "similarity": 0.12039999663829803,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "affection",
+      "similarity": 0.050700001418590546,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "mood",
+      "similarity": 0.0608999989926815,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "passion",
+      "similarity": 0.06549999862909317,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "disposition",
+      "similarity": 0.10809999704360962,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "thought",
+      "similarity": 0.08669999986886978,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "belief",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "perception",
+      "similarity": 0.20329999923706055,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intuition",
+      "similarity": 0.17829999327659607,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "cognition",
+      "similarity": 0.11159999668598175,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "consciousness",
+      "similarity": 0.10140000283718109,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "mindset",
+      "similarity": 0.10610000044107437,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "impression",
+      "similarity": 0.1446000039577484,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "belief",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "psychology",
+      "similarity": 0.0934000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "idea",
+      "similarity": 0.1023000031709671,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "belief",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "perception",
+      "similarity": 0.20329999923706055,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "conception",
+      "similarity": 0.13539999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "understanding",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "perception",
+      "similarity": 0.20329999923706055,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "perspective",
+      "similarity": 0.17759999632835388,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "belief",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "recognition",
+      "similarity": 0.08110000193119049,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "awareness",
+      "similarity": 0.006000000052154064,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "interpretation",
+      "similarity": 0.2152000069618225,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "opinion",
+      "similarity": 0.2825999855995178,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "judgment",
+      "similarity": 0.28220000863075256,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "assessment",
+      "similarity": 0.2696000039577484,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "evaluation",
+      "similarity": 0.2125999927520752,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "analysis",
+      "similarity": 0.24289999902248383,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "critique",
+      "similarity": 0.24089999496936798,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "review",
+      "similarity": 0.17440000176429749,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "commentary",
+      "similarity": 0.2215999960899353,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "opinion",
+      "similarity": 0.2825999855995178,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "reflection",
+      "similarity": 0.08980000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "criticism",
+      "similarity": 0.1679999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "viewpoint",
+      "similarity": 0.22859999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "opinion",
+      "similarity": 0.2825999855995178,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "opinion",
+      "similarity": 0.2825999855995178,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "consideration",
+      "similarity": 0.10819999873638153,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "conclusion",
+      "similarity": 0.24789999425411224,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "theory",
+      "similarity": 0.23989999294281006,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "appraisal",
+      "similarity": 0.18940000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "decision",
+      "similarity": 0.2151000052690506,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "hypothesis",
+      "similarity": 0.2110999971628189,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "belief",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "feedback",
+      "similarity": 0.19609999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "opinion",
+      "similarity": 0.2825999855995178,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "consensus",
+      "similarity": 0.03269999846816063,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "consensus",
+      "similarity": 0.03269999846816063,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "philosophy",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "debate",
+      "similarity": 0.24690000712871552,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "reflection",
+      "similarity": 0.08980000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "insight",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "argument",
+      "similarity": 0.46869999170303345,
+      "rank": 59
+    },
+    {
+      "guess_number": 76,
+      "word": "disagreement",
+      "similarity": 0.1850000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "discussion",
+      "similarity": 0.23440000414848328,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "proposal",
+      "similarity": 0.2460000067949295,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "assertion",
+      "similarity": 0.4251999855041504,
+      "rank": 218
+    },
+    {
+      "guess_number": 80,
+      "word": "claim",
+      "similarity": 0.2134000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 82,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "counterargument",
+      "similarity": 0.2667999863624573,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "contention",
+      "similarity": 0.11050000041723251,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "response",
+      "similarity": 0.21449999511241913,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "refutation",
+      "similarity": 0.2685999870300293,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "justification",
+      "similarity": 0.2087000012397766,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "counterpoint",
+      "similarity": 0.13349999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "dissent",
+      "similarity": 0.15479999780654907,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "objection",
+      "similarity": 0.2524999976158142,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 95,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 100,
+      "word": "counterpoint",
+      "similarity": 0.13349999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 103,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "dispute",
+      "similarity": 0.1582999974489212,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 107,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 110,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 111,
+      "word": "rebutter",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "rebutter",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "contradiction",
+      "similarity": 0.11379999667406082,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "disagreement",
+      "similarity": 0.1850000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "rebuttal",
+      "similarity": 0.4821000099182129,
+      "rank": 46
+    },
+    {
+      "guess_number": 118,
+      "word": "rebutter",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 119,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 120,
+      "word": "rejoinder",
+      "similarity": 0.18809999525547028,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 120,
+  "total_unique_guesses": 70
+}

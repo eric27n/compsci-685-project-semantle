@@ -1,0 +1,579 @@
+{
+  "game_id": 56,
+  "answer": "nod",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.0502999983727932,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.15929999947547913,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": 0.08139999955892563,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.14470000565052032,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "perception",
+      "similarity": 0.0851999968290329,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "sensation",
+      "similarity": 0.10220000147819519,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intuition",
+      "similarity": 0.07410000264644623,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "awareness",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "experience",
+      "similarity": 0.09939999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "consciousness",
+      "similarity": 0.08250000327825546,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "mind",
+      "similarity": 0.1006999984383583,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "cognition",
+      "similarity": 0.02879999950528145,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "impression",
+      "similarity": 0.28360000252723694,
+      "rank": 600
+    },
+    {
+      "guess_number": 14,
+      "word": "idea",
+      "similarity": 0.14980000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "insight",
+      "similarity": 0.19179999828338623,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "recognition",
+      "similarity": 0.38499999046325684,
+      "rank": 47
+    },
+    {
+      "guess_number": 17,
+      "word": "acknowledgment",
+      "similarity": 0.36309999227523804,
+      "rank": 80
+    },
+    {
+      "guess_number": 18,
+      "word": "realization",
+      "similarity": 0.12110000103712082,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "understanding",
+      "similarity": 0.09730000048875809,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "acknowledge",
+      "similarity": 0.19220000505447388,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "appreciation",
+      "similarity": 0.26980000734329224,
+      "rank": 940
+    },
+    {
+      "guess_number": 22,
+      "word": "validation",
+      "similarity": 0.19599999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "gratitude",
+      "similarity": 0.18639999628067017,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "recognize",
+      "similarity": 0.15399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "admiration",
+      "similarity": 0.28380000591278076,
+      "rank": 595
+    },
+    {
+      "guess_number": 26,
+      "word": "respect",
+      "similarity": 0.2517000138759613,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "esteem",
+      "similarity": 0.1395999938249588,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "commendation",
+      "similarity": 0.3296999931335449,
+      "rank": 176
+    },
+    {
+      "guess_number": 29,
+      "word": "praise",
+      "similarity": 0.4207000136375427,
+      "rank": 24
+    },
+    {
+      "guess_number": 30,
+      "word": "acclaim",
+      "similarity": 0.33079999685287476,
+      "rank": 168
+    },
+    {
+      "guess_number": 31,
+      "word": "honor",
+      "similarity": 0.26930001378059387,
+      "rank": 962
+    },
+    {
+      "guess_number": 32,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 33,
+      "word": "endorsement",
+      "similarity": 0.4242999851703644,
+      "rank": 22
+    },
+    {
+      "guess_number": 34,
+      "word": "consent",
+      "similarity": 0.20980000495910645,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "acceptance",
+      "similarity": 0.257099986076355,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 37,
+      "word": "affirmation",
+      "similarity": 0.2824000120162964,
+      "rank": 621
+    },
+    {
+      "guess_number": 38,
+      "word": "agreement",
+      "similarity": 0.08290000259876251,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 40,
+      "word": "congratulation",
+      "similarity": 0.23989999294281006,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 42,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 43,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 44,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 45,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 46,
+      "word": "confidence",
+      "similarity": 0.1324000060558319,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 48,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 49,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 50,
+      "word": "commend",
+      "similarity": 0.15119999647140503,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 52,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 53,
+      "word": "sanction",
+      "similarity": 0.22599999606609344,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 55,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 56,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 57,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 58,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 59,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 60,
+      "word": "recommendation",
+      "similarity": 0.19509999454021454,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 62,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 63,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 64,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 65,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 66,
+      "word": "applause",
+      "similarity": 0.31310001015663147,
+      "rank": 274
+    },
+    {
+      "guess_number": 67,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 68,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 69,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 70,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 71,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 72,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 73,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 74,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 75,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 76,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 77,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 78,
+      "word": "permission",
+      "similarity": 0.31529998779296875,
+      "rank": 256
+    },
+    {
+      "guess_number": 79,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 80,
+      "word": "authorization",
+      "similarity": 0.22840000689029694,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 82,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 83,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 84,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 85,
+      "word": "agreement",
+      "similarity": 0.08290000259876251,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 87,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 88,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 89,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 90,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 91,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 92,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 93,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 94,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    },
+    {
+      "guess_number": 95,
+      "word": "approval",
+      "similarity": 0.4729999899864197,
+      "rank": 5
+    }
+  ],
+  "total_guesses": 95,
+  "total_unique_guesses": 45
+}

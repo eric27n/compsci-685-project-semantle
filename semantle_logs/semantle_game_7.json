@@ -1,0 +1,657 @@
+{
+  "game_id": 7,
+  "answer": "boil",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.043699998408555984,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.05000000074505806,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.09430000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "intellect",
+      "similarity": 0.09610000252723694,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "intelligence",
+      "similarity": 0.04919999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "cognition",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "brain",
+      "similarity": 0.05490000173449516,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "consciousness",
+      "similarity": 0.05510000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "knowledge",
+      "similarity": -0.00570000009611249,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "perception",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "awareness",
+      "similarity": 0.03449999913573265,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "emotion",
+      "similarity": 0.13689999282360077,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "feeling",
+      "similarity": 0.10239999741315842,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "intuition",
+      "similarity": 0.0333000011742115,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "mood",
+      "similarity": 0.08110000193119049,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "psychology",
+      "similarity": 0.027300000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "sentiment",
+      "similarity": 0.08100000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "empathy",
+      "similarity": 0.057100001722574234,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "happiness",
+      "similarity": 0.05790000036358833,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "affection",
+      "similarity": -0.00430000014603138,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "psychology",
+      "similarity": 0.027300000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "sensation",
+      "similarity": 0.09160000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "anxiety",
+      "similarity": 0.11240000277757645,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "subconscious",
+      "similarity": 0.08540000021457672,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "stress",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "nervousness",
+      "similarity": 0.11670000106096268,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "worry",
+      "similarity": 0.17419999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "concern",
+      "similarity": 0.13230000436306,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "unease",
+      "similarity": 0.14190000295639038,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "apprehension",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "uneasiness",
+      "similarity": 0.1160999983549118,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "doubt",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "panic",
+      "similarity": 0.19460000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "dread",
+      "similarity": 0.11890000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "fearfulness",
+      "similarity": 0.08730000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "angst",
+      "similarity": 0.1509999930858612,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "fearful",
+      "similarity": 0.10350000113248825,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "nervous",
+      "similarity": 0.11289999634027481,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "alarm",
+      "similarity": 0.1673000007867813,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "trepidation",
+      "similarity": 0.08500000089406967,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "anxiety",
+      "similarity": 0.11240000277757645,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "distress",
+      "similarity": 0.021400000900030136,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "fearlessness",
+      "similarity": 0.10580000281333923,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "phobia",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "tension",
+      "similarity": 0.23360000550746918,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "alert",
+      "similarity": 0.2515000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "paranoia",
+      "similarity": 0.15309999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "caution",
+      "similarity": 0.16189999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "vigilance",
+      "similarity": 0.1039000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "caution",
+      "similarity": 0.16189999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "anxiousness",
+      "similarity": 0.1565999984741211,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "attention",
+      "similarity": 0.03220000118017197,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "apprehensive",
+      "similarity": 0.0737999975681305,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "anxious",
+      "similarity": 0.1298000067472458,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "alarmed",
+      "similarity": 0.1639000028371811,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "distress",
+      "similarity": 0.021400000900030136,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "alarm",
+      "similarity": 0.1673000007867813,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "agitation",
+      "similarity": 0.16140000522136688,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "nervousness",
+      "similarity": 0.11670000106096268,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "apprehension",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "fright",
+      "similarity": 0.1151999980211258,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "surprise",
+      "similarity": 0.10599999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "distress",
+      "similarity": 0.021400000900030136,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "apprehension",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "fearful",
+      "similarity": 0.10350000113248825,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "alertness",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "fear",
+      "similarity": 0.094200000166893,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 108,
+  "total_unique_guesses": 58
+}

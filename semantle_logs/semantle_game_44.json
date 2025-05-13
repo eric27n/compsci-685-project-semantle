@@ -1,0 +1,561 @@
+{
+  "game_id": 44,
+  "answer": "track",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.008100000210106373,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "animal",
+      "similarity": 0.09780000150203705,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "plant",
+      "similarity": 0.06120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "object",
+      "similarity": 0.02979999966919422,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.0674000009894371,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "technology",
+      "similarity": 0.17399999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "device",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "machine",
+      "similarity": 0.11789999902248383,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "innovation",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "robot",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "gadget",
+      "similarity": 0.04749999940395355,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "hardware",
+      "similarity": 0.07989999651908875,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "software",
+      "similarity": 0.12110000103712082,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "computer",
+      "similarity": 0.13979999721050262,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "internet",
+      "similarity": 0.12600000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "artificial",
+      "similarity": 0.09030000120401382,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "digital",
+      "similarity": 0.08879999816417694,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "network",
+      "similarity": 0.12839999794960022,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "communication",
+      "similarity": 0.06989999860525131,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "cybersecurity",
+      "similarity": 0.06379999965429306,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "automation",
+      "similarity": 0.06920000165700912,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "information",
+      "similarity": 0.1542000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "system",
+      "similarity": 0.14149999618530273,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "data",
+      "similarity": 0.17649999260902405,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "algorithm",
+      "similarity": 0.08950000256299973,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "programming",
+      "similarity": -0.002099999925121665,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "AI",
+      "similarity": 0.13359999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "storage",
+      "similarity": 0.0625,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "server",
+      "similarity": 0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "encryption",
+      "similarity": 0.0771000012755394,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "analytics",
+      "similarity": 0.13359999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "datacenter",
+      "similarity": 0.022700000554323196,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "bigdata",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "database management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "database management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "datacenter",
+      "similarity": 0.022700000554323196,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "cyberspace",
+      "similarity": 0.08730000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "database management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "datacenter",
+      "similarity": 0.022700000554323196,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "database management system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "database management system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "database_management_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "database_management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "database management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "datamining",
+      "similarity": 0.10830000042915344,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "database_management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "database_management_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "database_management_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "datacenter",
+      "similarity": 0.022700000554323196,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "cloud",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "database_management",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "database_management_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "database_management_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "storage",
+      "similarity": 0.0625,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "computing",
+      "similarity": 0.002099999925121665,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "database",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 92,
+  "total_unique_guesses": 42
+}

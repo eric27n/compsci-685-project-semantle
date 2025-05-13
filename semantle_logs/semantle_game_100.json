@@ -1,0 +1,843 @@
+{
+  "game_id": 100,
+  "answer": "century",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.05730000138282776,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.013799999840557575,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.11559999734163284,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "emotion",
+      "similarity": 0.07270000129938126,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "feeling",
+      "similarity": 0.012400000356137753,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "perception",
+      "similarity": 0.039799999445676804,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mind",
+      "similarity": 0.030500000342726707,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.045499999076128006,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "awareness",
+      "similarity": 0.006200000178068876,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intelligence",
+      "similarity": -0.013799999840557575,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "memory",
+      "similarity": 0.05719999969005585,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "cognition",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "intuition",
+      "similarity": 0.11860000342130661,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "imagination",
+      "similarity": 0.13689999282360077,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "creativity",
+      "similarity": 0.06689999997615814,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "dream",
+      "similarity": 0.1257999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "fantasy",
+      "similarity": 0.08330000191926956,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "subconsciousness",
+      "similarity": 0.13089999556541443,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "hallucination",
+      "similarity": 0.07559999823570251,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "meditation",
+      "similarity": 0.02810000069439411,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "vision",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "subconsciousness",
+      "similarity": 0.13089999556541443,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "daydream",
+      "similarity": 0.09239999949932098,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "inspiration",
+      "similarity": 0.11969999969005585,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "subconsciousness",
+      "similarity": 0.13089999556541443,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "visualization",
+      "similarity": -0.005200000014156103,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "insight",
+      "similarity": 0.015200000256299973,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "phantasm",
+      "similarity": 0.13130000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "illusion",
+      "similarity": 0.08179999887943268,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "reflection",
+      "similarity": 0.07670000195503235,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "reverie",
+      "similarity": 0.11159999668598175,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "trance",
+      "similarity": -0.018799999728798866,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "mindfulness",
+      "similarity": 0.012000000104308128,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "imagine",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "dreamscape",
+      "similarity": 0.06379999965429306,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "fantasia",
+      "similarity": 0.15690000355243683,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "phantasy",
+      "similarity": 0.11389999836683273,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "mindfulness",
+      "similarity": 0.012000000104308128,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "fantasyland",
+      "similarity": 0.11659999936819077,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "unconscious",
+      "similarity": 0.01769999973475933,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "dreaming",
+      "similarity": 0.10379999876022339,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "surrealism",
+      "similarity": 0.13199999928474426,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "mindset",
+      "similarity": 0.11320000141859055,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "symbolism",
+      "similarity": 0.15080000460147858,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "psyche",
+      "similarity": 0.05730000138282776,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "creativity",
+      "similarity": 0.06689999997615814,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "abstract",
+      "similarity": 0.09189999848604202,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "dreamstate",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "art",
+      "similarity": 0.1071000024676323,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "unconsciousness",
+      "similarity": -0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "unreal",
+      "similarity": 0.05299999937415123,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "subconscious",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "myth",
+      "similarity": 0.1890999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "mythology",
+      "similarity": 0.17800000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "legend",
+      "similarity": 0.17110000550746918,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "folklore",
+      "similarity": 0.22840000689029694,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "tale",
+      "similarity": 0.1264999955892563,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "fable",
+      "similarity": 0.16050000488758087,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "folktale",
+      "similarity": 0.08799999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "narrative",
+      "similarity": 0.1581999957561493,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "story",
+      "similarity": 0.1388999968767166,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "archetype",
+      "similarity": 0.19589999318122864,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "mythos",
+      "similarity": 0.17900000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "fairy",
+      "similarity": 0.05389999970793724,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "mythology",
+      "similarity": 0.17800000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "superstition",
+      "similarity": 0.18209999799728394,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "tradition",
+      "similarity": 0.24969999492168427,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "folktale",
+      "similarity": 0.08799999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "ritual",
+      "similarity": 0.16169999539852142,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "custom",
+      "similarity": 0.04969999939203262,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "heritage",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "archeology",
+      "similarity": 0.1703999936580658,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "belief",
+      "similarity": 0.12780000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "culture",
+      "similarity": 0.1379999965429306,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "customs",
+      "similarity": 0.05660000070929527,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "legendary",
+      "similarity": 0.23919999599456787,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "ancestry",
+      "similarity": 0.15379999577999115,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "ancestor",
+      "similarity": 0.2712000012397766,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "ancestry",
+      "similarity": 0.15379999577999115,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "ancestral",
+      "similarity": 0.1882999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "ancient",
+      "similarity": 0.3343000113964081,
+      "rank": 590
+    },
+    {
+      "guess_number": 105,
+      "word": "history",
+      "similarity": 0.3898000121116638,
+      "rank": 85
+    },
+    {
+      "guess_number": 106,
+      "word": "chronicle",
+      "similarity": 0.19050000607967377,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "historical",
+      "similarity": 0.26170000433921814,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "antiquity",
+      "similarity": 0.30880001187324524,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "relic",
+      "similarity": 0.3140999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "artifact",
+      "similarity": 0.2378000020980835,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "prehistoric",
+      "similarity": 0.2535000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "time",
+      "similarity": 0.2549999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "civilization",
+      "similarity": 0.35030001401901245,
+      "rank": 341
+    },
+    {
+      "guess_number": 116,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 118,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 119,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 120,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 121,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 122,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 123,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 124,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 125,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 126,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 127,
+      "word": "dynasty",
+      "similarity": 0.32019999623298645,
+      "rank": 942
+    },
+    {
+      "guess_number": 128,
+      "word": "era",
+      "similarity": 0.337799996137619,
+      "rank": 521
+    },
+    {
+      "guess_number": 129,
+      "word": "empire",
+      "similarity": 0.22750000655651093,
+      "rank": -1
+    },
+    {
+      "guess_number": 130,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 131,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 132,
+      "word": "medieval",
+      "similarity": 0.33880001306533813,
+      "rank": 504
+    },
+    {
+      "guess_number": 133,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 134,
+      "word": "renaissance",
+      "similarity": 0.24250000715255737,
+      "rank": -1
+    },
+    {
+      "guess_number": 135,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 136,
+      "word": "archeology",
+      "similarity": 0.1703999936580658,
+      "rank": -1
+    },
+    {
+      "guess_number": 137,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 138,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 139,
+      "word": "archaeology",
+      "similarity": 0.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 139,
+  "total_unique_guesses": 89
+}

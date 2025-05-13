@@ -1,0 +1,705 @@
+{
+  "game_id": 37,
+  "answer": "field",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": -0.008299999870359898,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.10090000182390213,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "emotion",
+      "similarity": 0.05979999899864197,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "feeling",
+      "similarity": 0.08739999681711197,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "mind",
+      "similarity": 0.1006999984383583,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intellect",
+      "similarity": 0.06880000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.03880000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "cognition",
+      "similarity": 0.10649999976158142,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "perception",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "understanding",
+      "similarity": 0.1143999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "awareness",
+      "similarity": 0.11559999734163284,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "knowledge",
+      "similarity": 0.20000000298023224,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "intelligence",
+      "similarity": 0.07720000296831131,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "wisdom",
+      "similarity": -0.00800000037997961,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "learning",
+      "similarity": 0.1550000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "education",
+      "similarity": 0.12269999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "insight",
+      "similarity": 0.11860000342130661,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "memory",
+      "similarity": 0.06260000169277191,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "comprehension",
+      "similarity": 0.12630000710487366,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "intuition",
+      "similarity": 0.09300000220537186,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "reasoning",
+      "similarity": 0.027499999850988388,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "information",
+      "similarity": 0.009200000204145908,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "enlightenment",
+      "similarity": 0.008100000210106373,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intellect",
+      "similarity": 0.06880000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "experience",
+      "similarity": 0.19580000638961792,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "expertise",
+      "similarity": 0.19760000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "skill",
+      "similarity": 0.22040000557899475,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "aptitude",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "talent",
+      "similarity": 0.1420000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "ability",
+      "similarity": 0.12759999930858612,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "proficiency",
+      "similarity": 0.2046000063419342,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "competence",
+      "similarity": 0.17980000376701355,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "acumen",
+      "similarity": 0.13179999589920044,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "aptitude",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "aptitude",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "aptitude",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "wisdom",
+      "similarity": -0.00800000037997961,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "aptitude",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "qualification",
+      "similarity": 0.1736000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "practice",
+      "similarity": 0.3294000029563904,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "discipline",
+      "similarity": 0.16609999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "mastery",
+      "similarity": 0.1143999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "dedication",
+      "similarity": 0.15649999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "development",
+      "similarity": 0.11400000005960464,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "rehearsal",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "craft",
+      "similarity": 0.07519999891519547,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "craftsmanship",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "craftsmanship",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "hobby",
+      "similarity": 0.09200000017881393,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "craftsmanship",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "coaching",
+      "similarity": 0.21809999644756317,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "apprenticeship",
+      "similarity": 0.0820000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "technique",
+      "similarity": 0.13850000500679016,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "expert",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "practice",
+      "similarity": 0.3294000029563904,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "preparation",
+      "similarity": 0.11909999698400497,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "expert",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "expert",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "drill",
+      "similarity": 0.22519999742507935,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "craftsmanship",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "mentoring",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "teaching",
+      "similarity": 0.1298000067472458,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "study",
+      "similarity": 0.06210000067949295,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "habituation",
+      "similarity": 0.049300000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "craftsmanship",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "mastery",
+      "similarity": 0.1143999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "workshop",
+      "similarity": 0.07349999994039536,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "mastery",
+      "similarity": 0.1143999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "curriculum",
+      "similarity": 0.14509999752044678,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "habit",
+      "similarity": 0.052299998700618744,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "assessment",
+      "similarity": 0.08889999985694885,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "practice",
+      "similarity": 0.3294000029563904,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "certification",
+      "similarity": 0.04010000079870224,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "hobby",
+      "similarity": 0.09200000017881393,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "tutoring",
+      "similarity": 0.1251000016927719,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "instruction",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "practice",
+      "similarity": 0.3294000029563904,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "method",
+      "similarity": 0.0333000011742115,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "preparation",
+      "similarity": 0.11909999698400497,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "workout",
+      "similarity": 0.22519999742507935,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "education",
+      "similarity": 0.12269999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "routine",
+      "similarity": 0.16429999470710754,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "preparation",
+      "similarity": 0.11909999698400497,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "education",
+      "similarity": 0.12269999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "conditioning",
+      "similarity": 0.2328999936580658,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "practice",
+      "similarity": 0.3294000029563904,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "exercise",
+      "similarity": 0.09040000289678574,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "rehearsal",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "training",
+      "similarity": 0.25369998812675476,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 116,
+  "total_unique_guesses": 66
+}

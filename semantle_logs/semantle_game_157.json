@@ -1,0 +1,525 @@
+{
+  "game_id": 157,
+  "answer": "difficult",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.16779999434947968,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.1265999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "mood",
+      "similarity": 0.06340000033378601,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sentiment",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "passion",
+      "similarity": 0.1412000060081482,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "happiness",
+      "similarity": 0.09549999982118607,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "love",
+      "similarity": 0.18070000410079956,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "relationship",
+      "similarity": 0.06639999896287918,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "compassion",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "desire",
+      "similarity": 0.1615999937057495,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "heart",
+      "similarity": 0.05420000106096268,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "connection",
+      "similarity": 0.02250000089406967,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "sympathy",
+      "similarity": 0.1363999992609024,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intimacy",
+      "similarity": 0.09589999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "empathy",
+      "similarity": 0.13519999384880066,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "joy",
+      "similarity": 0.15719999372959137,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "care",
+      "similarity": 0.052000001072883606,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "trust",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "kindness",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "mindfulness",
+      "similarity": 0.08869999647140503,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "thought",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "friendship",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "appreciation",
+      "similarity": 0.04039999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "sentimentality",
+      "similarity": 0.07069999724626541,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "psychology",
+      "similarity": 0.04809999838471413,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "gratitude",
+      "similarity": 0.10440000146627426,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "attraction",
+      "similarity": 0.06210000067949295,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "enthusiasm",
+      "similarity": 0.07800000160932541,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "emotion",
+      "similarity": 0.16779999434947968,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "admiration",
+      "similarity": 0.12080000340938568,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "infatuation",
+      "similarity": 0.024800000712275505,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "yearning",
+      "similarity": 0.10930000245571136,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "sensitivity",
+      "similarity": 0.13169999420642853,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "sentiment",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "sentiment",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "sentiment",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "connection",
+      "similarity": 0.02250000089406967,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "sentiment",
+      "similarity": 0.05090000107884407,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "affection",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "humanity",
+      "similarity": 0.04560000076889992,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "romance",
+      "similarity": -0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "attachment",
+      "similarity": -0.011699999682605267,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "emotion",
+      "similarity": 0.16779999434947968,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 86,
+  "total_unique_guesses": 36
+}

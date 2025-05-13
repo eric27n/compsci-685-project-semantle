@@ -1,0 +1,525 @@
+{
+  "game_id": 70,
+  "answer": "button",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "emotion",
+      "similarity": 0.12280000001192093,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "feeling",
+      "similarity": 0.06830000132322311,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.09769999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.04859999939799309,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "mindset",
+      "similarity": 0.0843999981880188,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": 0.03370000049471855,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "intellect",
+      "similarity": 0.07689999788999557,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "intuition",
+      "similarity": 0.13539999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "insight",
+      "similarity": -0.009700000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "understanding",
+      "similarity": -0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "cognition",
+      "similarity": 0.03449999913573265,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "imagination",
+      "similarity": 0.09179999679327011,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "consciousness",
+      "similarity": 0.1264999955892563,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "awareness",
+      "similarity": 0.10559999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "psychology",
+      "similarity": 0.09279999881982803,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "subconscious",
+      "similarity": 0.17399999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "dream",
+      "similarity": 0.03709999844431877,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "subconsciousness",
+      "similarity": 0.16680000722408295,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "subconsciousness",
+      "similarity": 0.16680000722408295,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "unconscious",
+      "similarity": 0.10480000078678131,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "meditation",
+      "similarity": 0.0471000000834465,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "mind",
+      "similarity": 0.07930000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "subconsciously",
+      "similarity": 0.1891999989748001,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "subtlety",
+      "similarity": 0.1793999969959259,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "instinct",
+      "similarity": 0.21250000596046448,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "reflex",
+      "similarity": 0.2799000144004822,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "automatic",
+      "similarity": 0.26930001378059387,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "perception",
+      "similarity": 0.03370000049471855,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "response",
+      "similarity": 0.08060000091791153,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "behavior",
+      "similarity": 0.009200000204145908,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "impulse",
+      "similarity": 0.18359999358654022,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "behavior",
+      "similarity": 0.009200000204145908,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "habitual",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "habitual",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "habituation",
+      "similarity": 0.065700002014637,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "habitual",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "involuntary",
+      "similarity": 0.07980000227689743,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "habit",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "automatism",
+      "similarity": 0.02019999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "habitual",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "habitual",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "reaction",
+      "similarity": 0.04309999942779541,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 86,
+  "total_unique_guesses": 36
+}

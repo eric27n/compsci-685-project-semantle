@@ -1,0 +1,585 @@
+{
+  "game_id": 36,
+  "answer": "selection",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.03099999949336052,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.04039999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "perception",
+      "similarity": 0.11330000311136246,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "awareness",
+      "similarity": 0.03720000013709068,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "consciousness",
+      "similarity": -0.008799999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intuition",
+      "similarity": 0.11509999632835388,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "cognition",
+      "similarity": 0.044199999421834946,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "insight",
+      "similarity": 0.11400000005960464,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "understanding",
+      "similarity": 0.1264999955892563,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "thought",
+      "similarity": 0.12229999899864197,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "knowledge",
+      "similarity": 0.16019999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "learning",
+      "similarity": 0.13580000400543213,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "wisdom",
+      "similarity": 0.09009999781847,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "intelligence",
+      "similarity": 0.0689999982714653,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "mind",
+      "similarity": 0.08079999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "comprehension",
+      "similarity": 0.1031000018119812,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "concept",
+      "similarity": 0.09860000014305115,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "reasoning",
+      "similarity": 0.12759999930858612,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "memory",
+      "similarity": 0.05869999900460243,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "education",
+      "similarity": 0.030700000002980232,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "reflection",
+      "similarity": 0.17110000550746918,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "analysis",
+      "similarity": 0.1941000074148178,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "interpretation",
+      "similarity": 0.2353000044822693,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 26,
+      "word": "assessment",
+      "similarity": 0.1881999969482422,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "critique",
+      "similarity": 0.19140000641345978,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "appraisal",
+      "similarity": 0.19499999284744263,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "judgment",
+      "similarity": 0.14259999990463257,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "review",
+      "similarity": 0.2879999876022339,
+      "rank": 621
+    },
+    {
+      "guess_number": 32,
+      "word": "feedback",
+      "similarity": 0.23659999668598175,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "examination",
+      "similarity": 0.2110999971628189,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "summary",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "report",
+      "similarity": 0.05490000173449516,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "rating",
+      "similarity": 0.14920000731945038,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "summary",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "survey",
+      "similarity": 0.10419999808073044,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "opinion",
+      "similarity": 0.11240000277757645,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 41,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "audit",
+      "similarity": 0.12240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 45,
+      "word": "overview",
+      "similarity": 0.11959999799728394,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "inspection",
+      "similarity": 0.14399999380111694,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "survey",
+      "similarity": 0.10419999808073044,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "recommendation",
+      "similarity": 0.2572999894618988,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 50,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 51,
+      "word": "appreciation",
+      "similarity": 0.10289999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "analysis",
+      "similarity": 0.1941000074148178,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 54,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 55,
+      "word": "comments",
+      "similarity": 0.12540000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "summary",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 59,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "summary",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 63,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 64,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 65,
+      "word": "summary",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 75,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "consideration",
+      "similarity": 0.25200000405311584,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 81,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 84,
+      "word": "survey",
+      "similarity": 0.10419999808073044,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "synopsis",
+      "similarity": 0.1459999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "report",
+      "similarity": 0.05490000173449516,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "appreciation",
+      "similarity": 0.10289999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 95,
+      "word": "evaluation",
+      "similarity": 0.35199999809265137,
+      "rank": 90
+    },
+    {
+      "guess_number": 96,
+      "word": "criticism",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 96,
+  "total_unique_guesses": 46
+}

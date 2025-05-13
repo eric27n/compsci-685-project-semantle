@@ -1,0 +1,579 @@
+{
+  "game_id": 42,
+  "answer": "pork",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.0868000015616417,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.11940000206232071,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.05550000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.06939999759197235,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.0032999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "sensation",
+      "similarity": 0.015799999237060547,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": 0.029999999329447746,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "mood",
+      "similarity": 0.025499999523162842,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "sentiment",
+      "similarity": 0.13379999995231628,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "affection",
+      "similarity": 0.08030000329017639,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "intuition",
+      "similarity": 0.010599999688565731,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "passion",
+      "similarity": -0.007799999788403511,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "attitude",
+      "similarity": 0.04639999940991402,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "belief",
+      "similarity": 0.053199999034404755,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "expression",
+      "similarity": 0.09269999712705612,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "opinion",
+      "similarity": 0.022299999371170998,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "affection",
+      "similarity": 0.08030000329017639,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "empathy",
+      "similarity": 0.11919999867677689,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "compassion",
+      "similarity": 0.14720000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "sympathy",
+      "similarity": 0.05900000035762787,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "kindness",
+      "similarity": 0.1256999969482422,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "care",
+      "similarity": 0.08990000188350677,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "love",
+      "similarity": 0.0364999994635582,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "altruism",
+      "similarity": 0.09099999815225601,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "benevolence",
+      "similarity": 0.16300000250339508,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "generosity",
+      "similarity": 0.07419999688863754,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "philanthropy",
+      "similarity": 0.03799999877810478,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "harmony",
+      "similarity": 0.05849999934434891,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "benevolence",
+      "similarity": 0.16300000250339508,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "benevolence",
+      "similarity": 0.16300000250339508,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "humanity",
+      "similarity": 0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "understanding",
+      "similarity": 0.03280000016093254,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "goodwill",
+      "similarity": 0.1062999963760376,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "charity",
+      "similarity": 0.03319999948143959,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "morality",
+      "similarity": 0.12839999794960022,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "ethics",
+      "similarity": 0.1647000014781952,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "virtue",
+      "similarity": 0.025200000032782555,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "principle",
+      "similarity": 0.05249999836087227,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "virtue",
+      "similarity": 0.025200000032782555,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "conscience",
+      "similarity": 0.16990000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "justice",
+      "similarity": 0.09489999711513519,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "conscience",
+      "similarity": 0.16990000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "conscience",
+      "similarity": 0.16990000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "values",
+      "similarity": 0.11050000041723251,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "dignity",
+      "similarity": 0.08320000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "honor",
+      "similarity": 0.04600000008940697,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "honesty",
+      "similarity": 0.10379999876022339,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "righteousness",
+      "similarity": 0.15299999713897705,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "consciousness",
+      "similarity": 0.019700000062584877,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "trust",
+      "similarity": 0.058800000697374344,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "integrity",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 95,
+  "total_unique_guesses": 45
+}

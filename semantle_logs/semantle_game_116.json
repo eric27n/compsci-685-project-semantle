@@ -1,0 +1,549 @@
+{
+  "game_id": 116,
+  "answer": "example",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.27090001106262207,
+      "rank": 866
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.3230000138282776,
+      "rank": 255
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.17970000207424164,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "belief",
+      "similarity": 0.04699999839067459,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "theory",
+      "similarity": 0.2070000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": 0.17190000414848328,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "philosophy",
+      "similarity": 0.17110000550746918,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "insight",
+      "similarity": 0.1882999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "innovation",
+      "similarity": 0.1923999935388565,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "plan",
+      "similarity": 0.1160999983549118,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "knowledge",
+      "similarity": 0.03290000185370445,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "perception",
+      "similarity": 0.06729999929666519,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "imagination",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "understanding",
+      "similarity": 0.16030000150203705,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "strategy",
+      "similarity": 0.16009999811649323,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "creativity",
+      "similarity": 0.07569999992847443,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intuition",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "inspiration",
+      "similarity": 0.25609999895095825,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "perspective",
+      "similarity": 0.2071000039577484,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "vision",
+      "similarity": 0.23090000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "mindset",
+      "similarity": 0.10920000076293945,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "reflection",
+      "similarity": 0.2240999937057495,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "opinion",
+      "similarity": 0.07980000227689743,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "intuition",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "brainstorm",
+      "similarity": 0.15320000052452087,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "dream",
+      "similarity": 0.11400000005960464,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "epiphany",
+      "similarity": 0.179299995303154,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "conception",
+      "similarity": 0.033399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "intellect",
+      "similarity": 0.0544000007212162,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "hypothesis",
+      "similarity": 0.14380000531673431,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 32,
+      "word": "metaphor",
+      "similarity": 0.4081999957561493,
+      "rank": 10
+    },
+    {
+      "guess_number": 33,
+      "word": "comparison",
+      "similarity": 0.3140000104904175,
+      "rank": 341
+    },
+    {
+      "guess_number": 34,
+      "word": "symbolism",
+      "similarity": 0.1046999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "simile",
+      "similarity": 0.32659998536109924,
+      "rank": 218
+    },
+    {
+      "guess_number": 36,
+      "word": "allegory",
+      "similarity": 0.25519999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 38,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 39,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 40,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 41,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 42,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 43,
+      "word": "rhetoric",
+      "similarity": 0.09279999881982803,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 45,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 46,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 47,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 48,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 49,
+      "word": "symbol",
+      "similarity": 0.2872999906539917,
+      "rank": 601
+    },
+    {
+      "guess_number": 50,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 51,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 52,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 53,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 54,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 55,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 56,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 57,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 58,
+      "word": "parable",
+      "similarity": 0.3382999897003174,
+      "rank": 116
+    },
+    {
+      "guess_number": 59,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 60,
+      "word": "analogue",
+      "similarity": 0.08190000057220459,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 62,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 63,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 64,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 65,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 66,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 67,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 68,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 69,
+      "word": "analogue",
+      "similarity": 0.08190000057220459,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 71,
+      "word": "fable",
+      "similarity": 0.14880000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 73,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 74,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 75,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 76,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 77,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 78,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 79,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 80,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 81,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 82,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 83,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 84,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 85,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 86,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 87,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 88,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 89,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    },
+    {
+      "guess_number": 90,
+      "word": "analogy",
+      "similarity": 0.4334999918937683,
+      "rank": 9
+    }
+  ],
+  "total_guesses": 90,
+  "total_unique_guesses": 40
+}

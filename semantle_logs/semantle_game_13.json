@@ -1,0 +1,543 @@
+{
+  "game_id": 13,
+  "answer": "display",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.12470000237226486,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.08510000258684158,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.042399998754262924,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sensation",
+      "similarity": 0.07129999995231628,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mind",
+      "similarity": 0.02710000053048134,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intuition",
+      "similarity": 0.08110000193119049,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "perception",
+      "similarity": 0.08479999750852585,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "awareness",
+      "similarity": 0.1476999968290329,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "cognition",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "insight",
+      "similarity": 0.07050000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "understanding",
+      "similarity": 0.08150000125169754,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "knowledge",
+      "similarity": 0.020999999716877937,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "recognition",
+      "similarity": 0.15850000083446503,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "memory",
+      "similarity": 0.1881999969482422,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "imagination",
+      "similarity": 0.12479999661445618,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intelligence",
+      "similarity": 0.07919999957084656,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "recollection",
+      "similarity": 0.019899999722838402,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "recall",
+      "similarity": 0.09920000284910202,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "learning",
+      "similarity": 0.049800001084804535,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "concentration",
+      "similarity": 0.1460999995470047,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "brain",
+      "similarity": 0.056699998676776886,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "attention",
+      "similarity": 0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "focus",
+      "similarity": 0.15209999680519104,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "recollection",
+      "similarity": 0.019899999722838402,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "mindset",
+      "similarity": 0.052799999713897705,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "awareness",
+      "similarity": 0.1476999968290329,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "neuropsychology",
+      "similarity": 0.027000000700354576,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "reflection",
+      "similarity": 0.27140000462532043,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "contemplation",
+      "similarity": 0.09380000084638596,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "self-awareness",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "awareness",
+      "similarity": 0.1476999968290329,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "introspection",
+      "similarity": 0.05620000138878822,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "rumination",
+      "similarity": 0.12139999866485596,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "self-reflection",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "subconscious",
+      "similarity": 0.04149999842047691,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "observation",
+      "similarity": 0.17170000076293945,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "self-perception",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "thoughtfulness",
+      "similarity": 0.20739999413490295,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "introspection",
+      "similarity": 0.05620000138878822,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "introspection",
+      "similarity": 0.05620000138878822,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "pondering",
+      "similarity": 0.012299999594688416,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "introspection",
+      "similarity": 0.05620000138878822,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "consciousness",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "meditation",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "mindfulness",
+      "similarity": 0.01640000008046627,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 89,
+  "total_unique_guesses": 39
+}

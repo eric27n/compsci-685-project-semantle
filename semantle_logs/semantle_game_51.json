@@ -1,0 +1,663 @@
+{
+  "game_id": 51,
+  "answer": "curriculum",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.01679999940097332,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.04430000111460686,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.07029999792575836,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.18219999969005585,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.2240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "theory",
+      "similarity": 0.21369999647140503,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "philosophy",
+      "similarity": 0.3546000123023987,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "metaphysics",
+      "similarity": 0.22939999401569366,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "wisdom",
+      "similarity": 0.12030000239610672,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "knowledge",
+      "similarity": 0.22859999537467957,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "logic",
+      "similarity": 0.1565999984741211,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "epistemology",
+      "similarity": 0.2750999927520752,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "understanding",
+      "similarity": 0.17839999496936798,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "ethics",
+      "similarity": 0.2632000148296356,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "ontology",
+      "similarity": 0.2632000148296356,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "rationality",
+      "similarity": 0.09459999948740005,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "reason",
+      "similarity": 0.033399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "intellect",
+      "similarity": 0.1671999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "consciousness",
+      "similarity": 0.15279999375343323,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "humanism",
+      "similarity": 0.2062000036239624,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "mind",
+      "similarity": 0.1527000069618225,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "cognition",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "existentialism",
+      "similarity": 0.1995999962091446,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "philosopher",
+      "similarity": 0.13570000231266022,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "psychology",
+      "similarity": 0.28850001096725464,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "ideology",
+      "similarity": 0.29600000381469727,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "dialectic",
+      "similarity": 0.2003999948501587,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "reasoning",
+      "similarity": 0.2029000073671341,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "abstract",
+      "similarity": 0.12160000205039978,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "sociology",
+      "similarity": 0.3278000056743622,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "philosopher",
+      "similarity": 0.13570000231266022,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "spirituality",
+      "similarity": 0.3100999891757965,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "values",
+      "similarity": 0.20430000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "worldview",
+      "similarity": 0.3569999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "culture",
+      "similarity": 0.3684999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "religion",
+      "similarity": 0.3172999918460846,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "mythology",
+      "similarity": 0.2881999909877777,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "symbolism",
+      "similarity": 0.18490000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "ritual",
+      "similarity": 0.14659999310970306,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "anthropology",
+      "similarity": 0.3084000051021576,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "morality",
+      "similarity": 0.23639999330043793,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "paradigm",
+      "similarity": 0.22259999811649323,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "cosmology",
+      "similarity": 0.260699987411499,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "custom",
+      "similarity": 0.09640000015497208,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "civilization",
+      "similarity": 0.20180000364780426,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "existentialism",
+      "similarity": 0.1995999962091446,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "existentialism",
+      "similarity": 0.1995999962091446,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "existence",
+      "similarity": 0.024399999529123306,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "socialization",
+      "similarity": 0.3190000057220459,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "ritual",
+      "similarity": 0.14659999310970306,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "perspective",
+      "similarity": 0.17649999260902405,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "customs",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "custom",
+      "similarity": 0.09640000015497208,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "customs",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "customs",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "identity",
+      "similarity": 0.13600000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "rituals",
+      "similarity": 0.16290000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "perspective",
+      "similarity": 0.17649999260902405,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "customs",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "norms",
+      "similarity": 0.2313999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "worldview",
+      "similarity": 0.3569999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "intellectualism",
+      "similarity": 0.2485000044107437,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "folklore",
+      "similarity": 0.19789999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "belief_systems",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "worldview",
+      "similarity": 0.3569999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "values",
+      "similarity": 0.20430000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "heritage",
+      "similarity": 0.23319999873638153,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "belief_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "tradition",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "belief",
+      "similarity": 0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "beliefs",
+      "similarity": 0.2045000046491623,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 109,
+  "total_unique_guesses": 59
+}

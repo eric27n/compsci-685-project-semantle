@@ -1,0 +1,309 @@
+{
+  "game_id": 122,
+  "answer": "affair",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "object",
+      "similarity": 0.12269999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "entity",
+      "similarity": 0.10249999910593033,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "concept",
+      "similarity": 0.1152999997138977,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.15539999306201935,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.0869000032544136,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "abstraction",
+      "similarity": 0.04540000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "notion",
+      "similarity": 0.133200004696846,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "theory",
+      "similarity": 0.053599998354911804,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "innovation",
+      "similarity": 0.023800000548362732,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "belief",
+      "similarity": 0.021700000390410423,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "perception",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "insight",
+      "similarity": -0.007499999832361937,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "knowledge",
+      "similarity": 0.016100000590085983,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "understanding",
+      "similarity": 0.021700000390410423,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "imagination",
+      "similarity": 0.11640000343322754,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "mind",
+      "similarity": 0.10589999705553055,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "conception",
+      "similarity": 0.09130000323057175,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "intuition",
+      "similarity": 0.07720000296831131,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "emotion",
+      "similarity": 0.1746000051498413,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "feeling",
+      "similarity": 0.1145000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "sentiment",
+      "similarity": 0.12200000137090683,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "awareness",
+      "similarity": 0.0017999999690800905,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "consciousness",
+      "similarity": 0.061799999326467514,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "psychology",
+      "similarity": 0.07609999924898148,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intellect",
+      "similarity": 0.06459999829530716,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "cognition",
+      "similarity": 0.029200000688433647,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "emotion",
+      "similarity": 0.1746000051498413,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "memory",
+      "similarity": 0.09449999779462814,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "awareness",
+      "similarity": 0.0017999999690800905,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "awareness",
+      "similarity": 0.0017999999690800905,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "affection",
+      "similarity": 0.3043999969959259,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "love",
+      "similarity": 0.3176000118255615,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "passion",
+      "similarity": 0.2231999933719635,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "attachment",
+      "similarity": 0.18250000476837158,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "relationship",
+      "similarity": 0.49380001425743103,
+      "rank": 15
+    },
+    {
+      "guess_number": 36,
+      "word": "bond",
+      "similarity": 0.05420000106096268,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "connection",
+      "similarity": 0.1770000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "friendship",
+      "similarity": 0.427700012922287,
+      "rank": 81
+    },
+    {
+      "guess_number": 39,
+      "word": "companionship",
+      "similarity": 0.18790000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "partnership",
+      "similarity": 0.20100000500679016,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "trust",
+      "similarity": 0.07729999721050262,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "intimacy",
+      "similarity": 0.3325999975204468,
+      "rank": 846
+    },
+    {
+      "guess_number": 43,
+      "word": "bonding",
+      "similarity": 0.1054999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "romance",
+      "similarity": 0.5218999981880188,
+      "rank": 11
+    },
+    {
+      "guess_number": 45,
+      "word": "attraction",
+      "similarity": 0.2475000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "dating",
+      "similarity": 0.2583000063896179,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "courtship",
+      "similarity": 0.42910000681877136,
+      "rank": 78
+    },
+    {
+      "guess_number": 48,
+      "word": "flirtation",
+      "similarity": 0.536899983882904,
+      "rank": 9
+    },
+    {
+      "guess_number": 49,
+      "word": "fling",
+      "similarity": 0.5134000182151794,
+      "rank": 12
+    },
+    {
+      "guess_number": 50,
+      "word": "affair",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 50,
+  "total_unique_guesses": 47
+}

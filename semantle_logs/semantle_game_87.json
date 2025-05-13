@@ -1,0 +1,639 @@
+{
+  "game_id": 87,
+  "answer": "spill",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.10689999908208847,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.08730000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.032099999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.023099999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "sentiment",
+      "similarity": 0.08150000125169754,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "mood",
+      "similarity": 0.13179999589920044,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "attitude",
+      "similarity": 0.054999999701976776,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "expression",
+      "similarity": 0.05339999869465828,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "temperament",
+      "similarity": 0.10289999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "affect",
+      "similarity": 0.12240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "mind",
+      "similarity": 0.027799999341368675,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "state",
+      "similarity": 0.08619999885559082,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "personality",
+      "similarity": 0.052000001072883606,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "mental",
+      "similarity": 0.04659999907016754,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "intuition",
+      "similarity": 0.02889999933540821,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "mindset",
+      "similarity": 0.006899999920278788,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "perception",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "cognition",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "consciousness",
+      "similarity": 0.06769999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "empathy",
+      "similarity": 0.03099999949336052,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "awareness",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "happiness",
+      "similarity": 0.042100001126527786,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "behavior",
+      "similarity": 0.09539999812841415,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "motivation",
+      "similarity": -0.0430000014603138,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "affection",
+      "similarity": 0.007199999876320362,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "neuroscience",
+      "similarity": 0.01810000091791153,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "awareness",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "anxiety",
+      "similarity": 0.15399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "stress",
+      "similarity": 0.19059999287128448,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "depression",
+      "similarity": 0.21140000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "bipolar",
+      "similarity": 0.004000000189989805,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "bipolar",
+      "similarity": 0.004000000189989805,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "therapy",
+      "similarity": 0.05009999871253967,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "grief",
+      "similarity": 0.13760000467300415,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "trauma",
+      "similarity": 0.15039999783039093,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "fear",
+      "similarity": 0.07739999890327454,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "despair",
+      "similarity": 0.07930000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "mental_health",
+      "similarity": 0.09480000287294388,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "psychotherapy",
+      "similarity": 0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "psychiatry",
+      "similarity": 0.023900000378489494,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "distress",
+      "similarity": 0.131400004029274,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "bipolar",
+      "similarity": 0.004000000189989805,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "psychological",
+      "similarity": 0.0689999982714653,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "well-being",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "mindfulness",
+      "similarity": 0.02410000003874302,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "fatigue",
+      "similarity": 0.10090000182390213,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "psychosis",
+      "similarity": 0.10750000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "bipolar_disorder",
+      "similarity": 0.08869999647140503,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "neurosis",
+      "similarity": 0.08259999752044678,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "mindfulness",
+      "similarity": 0.02410000003874302,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "insomnia",
+      "similarity": 0.07289999723434448,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "mental_illness",
+      "similarity": 0.10849999636411667,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "wellness",
+      "similarity": 0.10140000283718109,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "psychotherapy",
+      "similarity": 0.015699999406933784,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "nostalgia",
+      "similarity": -0.006099999882280827,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "psychiatry",
+      "similarity": 0.023900000378489494,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "neuroticism",
+      "similarity": 0.03669999912381172,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "hopelessness",
+      "similarity": 0.012900000438094139,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "psychology",
+      "similarity": 0.045099999755620956,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "empathy",
+      "similarity": 0.03099999949336052,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "sadness",
+      "similarity": 0.08380000293254852,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "melancholy",
+      "similarity": 0.046799998730421066,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "fatigue",
+      "similarity": 0.10090000182390213,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 105,
+  "total_unique_guesses": 55
+}

@@ -1,0 +1,99 @@
+{
+  "game_id": 197,
+  "answer": "warmth",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.33739998936653137,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.34630000591278076,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.08420000225305557,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sentiment",
+      "similarity": 0.15950000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mood",
+      "similarity": 0.24210000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "perception",
+      "similarity": 0.09430000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "affection",
+      "similarity": 0.4837000072002411,
+      "rank": 66
+    },
+    {
+      "guess_number": 8,
+      "word": "love",
+      "similarity": 0.36550000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "compassion",
+      "similarity": 0.4677000045776367,
+      "rank": 87
+    },
+    {
+      "guess_number": 10,
+      "word": "empathy",
+      "similarity": 0.430400013923645,
+      "rank": 280
+    },
+    {
+      "guess_number": 11,
+      "word": "kindness",
+      "similarity": 0.4578000009059906,
+      "rank": 119
+    },
+    {
+      "guess_number": 12,
+      "word": "sympathy",
+      "similarity": 0.30709999799728394,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "altruism",
+      "similarity": 0.28519999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "caring",
+      "similarity": 0.3416999876499176,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "warmth",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 15,
+  "total_unique_guesses": 15
+}

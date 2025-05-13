@@ -1,0 +1,585 @@
+{
+  "game_id": 55,
+  "answer": "cooperate",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.003000000026077032,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.06239999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.02500000037252903,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "belief",
+      "similarity": 0.0860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "philosophy",
+      "similarity": 0.045499999076128006,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "ideology",
+      "similarity": 0.10480000078678131,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "theory",
+      "similarity": 0.039900001138448715,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "principle",
+      "similarity": 0.18330000340938568,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "value",
+      "similarity": 0.04390000179409981,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "doctrine",
+      "similarity": 0.10729999840259552,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "tenet",
+      "similarity": 0.08429999649524689,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "ethics",
+      "similarity": 0.18529999256134033,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "morality",
+      "similarity": 0.09549999982118607,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "virtue",
+      "similarity": -0.04830000177025795,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "norm",
+      "similarity": -0.025699999183416367,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "moral",
+      "similarity": 0.11819999665021896,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "integrity",
+      "similarity": 0.1599999964237213,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "ethos",
+      "similarity": 0.02329999953508377,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "honesty",
+      "similarity": 0.17159999907016754,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "justice",
+      "similarity": 0.21649999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "fairness",
+      "similarity": 0.15700000524520874,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "righteousness",
+      "similarity": 0.13349999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "law",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "equity",
+      "similarity": 0.016100000590085983,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "conscience",
+      "similarity": 0.13840000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "honor",
+      "similarity": 0.15129999816417694,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "credibility",
+      "similarity": 0.17579999566078186,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "trustworthiness",
+      "similarity": 0.09459999948740005,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "reputation",
+      "similarity": 0.07970000058412552,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "responsibility",
+      "similarity": 0.25270000100135803,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "duty",
+      "similarity": 0.07559999823570251,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "obligation",
+      "similarity": 0.1500999927520752,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "trust",
+      "similarity": 0.18119999766349792,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "credibility",
+      "similarity": 0.17579999566078186,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "authenticity",
+      "similarity": 0.014299999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "altruism",
+      "similarity": 0.13619999587535858,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "culpability",
+      "similarity": 0.2386000007390976,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "guilt",
+      "similarity": 0.15860000252723694,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "blame",
+      "similarity": 0.22040000557899475,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "consequence",
+      "similarity": 0.08709999918937683,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "culprit",
+      "similarity": 0.1160999983549118,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "culpable",
+      "similarity": 0.2371000051498413,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "duty",
+      "similarity": 0.07559999823570251,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "fault",
+      "similarity": 0.14900000393390656,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "duty",
+      "similarity": 0.07559999823570251,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "accountability",
+      "similarity": 0.21930000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "reliability",
+      "similarity": 0.10649999976158142,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "liability",
+      "similarity": 0.06650000065565109,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 96,
+  "total_unique_guesses": 46
+}

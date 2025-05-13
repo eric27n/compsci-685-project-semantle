@@ -1,0 +1,597 @@
+{
+  "game_id": 164,
+  "answer": "telescope",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.05180000141263008,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.021400000900030136,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.05849999934434891,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.09149999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.05829999968409538,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "mind",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intelligence",
+      "similarity": 0.10679999738931656,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "cognition",
+      "similarity": 0.131400004029274,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "knowledge",
+      "similarity": 0.05889999866485596,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "understanding",
+      "similarity": 0.1014999970793724,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "wisdom",
+      "similarity": 0.12060000002384186,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "reasoning",
+      "similarity": 0.08780000358819962,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "insight",
+      "similarity": 0.0722000002861023,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "awareness",
+      "similarity": -0.04450000077486038,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "logic",
+      "similarity": 0.03229999914765358,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "philosophy",
+      "similarity": 0.07010000199079514,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "learning",
+      "similarity": 0.10260000079870224,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "memory",
+      "similarity": 0.11559999734163284,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "intuition",
+      "similarity": 0.16040000319480896,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "creativity",
+      "similarity": -0.0024999999441206455,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "reflection",
+      "similarity": 0.14550000429153442,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "imagination",
+      "similarity": 0.0835999995470047,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "contemplation",
+      "similarity": 0.1168999969959259,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "meditation",
+      "similarity": 0.09679999947547913,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "intuition",
+      "similarity": 0.16040000319480896,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "intellect",
+      "similarity": 0.1371999979019165,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "brain",
+      "similarity": 0.16519999504089355,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "neuroscience",
+      "similarity": 0.1639000028371811,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "psychology",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "thinking",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "neurobiology",
+      "similarity": 0.1647000014781952,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "synapse",
+      "similarity": 0.16500000655651093,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "neuron",
+      "similarity": 0.1826000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "neural",
+      "similarity": 0.17800000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "nervous",
+      "similarity": 0.019600000232458115,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "cerebrum",
+      "similarity": 0.0934000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "neural_network",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "cerebellum",
+      "similarity": 0.1298999935388565,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "mindfulness",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "neurotransmitter",
+      "similarity": 0.11410000175237656,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "cortex",
+      "similarity": 0.18310000002384186,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "cerebral",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "cognitive",
+      "similarity": 0.09510000050067902,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "cerebral",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "cerebral",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "neuroanatomy",
+      "similarity": 0.13230000436306,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "psychology",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "hippocampus",
+      "similarity": 0.1266999989748001,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "perception",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "psychology",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "neuroplasticity",
+      "similarity": 0.14839999377727509,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "mindfulness",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "mindfulness",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "mindfulness",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "cerebral_cortex",
+      "similarity": 0.13680000603199005,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "mindfulness",
+      "similarity": 0.0917000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "consciousness",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 98,
+  "total_unique_guesses": 48
+}

@@ -1,0 +1,753 @@
+{
+  "game_id": 1,
+  "answer": "executive",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.030799999833106995,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": -0.0026000000070780516,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.013899999670684338,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.0071000000461936,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.09950000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "concept",
+      "similarity": 0.04749999940395355,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "notion",
+      "similarity": 0.02239999920129776,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "intellect",
+      "similarity": 0.11620000004768372,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "knowledge",
+      "similarity": 0.1152999997138977,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intelligence",
+      "similarity": 0.10040000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "wisdom",
+      "similarity": 0.02319999970495701,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "cognition",
+      "similarity": 0.07639999687671661,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "education",
+      "similarity": 0.11500000208616257,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "reason",
+      "similarity": 0.04019999876618385,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "learning",
+      "similarity": 0.01119999960064888,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "understanding",
+      "similarity": 0.07689999788999557,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "philosophy",
+      "similarity": 0.09470000118017197,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "logic",
+      "similarity": 0.02810000069439411,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "insight",
+      "similarity": 0.07649999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "theory",
+      "similarity": -0.06960000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "science",
+      "similarity": 0.07909999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "scholarship",
+      "similarity": 0.05609999969601631,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "innovation",
+      "similarity": 0.16590000689029694,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "creativity",
+      "similarity": 0.08449999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "research",
+      "similarity": 0.1776999980211258,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "technology",
+      "similarity": 0.12630000710487366,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "curiosity",
+      "similarity": -0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "experiment",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "analysis",
+      "similarity": 0.08839999884366989,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "development",
+      "similarity": 0.2093999981880188,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "advancement",
+      "similarity": 0.13580000400543213,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "progression",
+      "similarity": -0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "breakthrough",
+      "similarity": -0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "improvement",
+      "similarity": -0.0010999999940395355,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "exploration",
+      "similarity": 0.049300000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "experiment",
+      "similarity": 0.014499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "study",
+      "similarity": 0.04919999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "growth",
+      "similarity": 0.1429000049829483,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "breakthrough",
+      "similarity": -0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "progression",
+      "similarity": -0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "progression",
+      "similarity": -0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "learning",
+      "similarity": 0.01119999960064888,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "progress",
+      "similarity": -0.020600000396370888,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "design",
+      "similarity": 0.05790000036358833,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "invention",
+      "similarity": -0.02759999968111515,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "discovery",
+      "similarity": -0.0010000000474974513,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "mentoring",
+      "similarity": 0.11599999666213989,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "learning",
+      "similarity": 0.01119999960064888,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "enterprise",
+      "similarity": 0.15230000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "industry",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "manufacturing",
+      "similarity": 0.10849999636411667,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "corporation",
+      "similarity": 0.32420000433921814,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "business",
+      "similarity": 0.28279998898506165,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "commerce",
+      "similarity": 0.2126999944448471,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "company",
+      "similarity": 0.23190000653266907,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "organization",
+      "similarity": 0.36890000104904175,
+      "rank": 616
+    },
+    {
+      "guess_number": 85,
+      "word": "institution",
+      "similarity": 0.12780000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "enterprise",
+      "similarity": 0.15230000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "firm",
+      "similarity": 0.16580000519752502,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "enterprise",
+      "similarity": 0.15230000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "nonprofit",
+      "similarity": 0.2989000082015991,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "association",
+      "similarity": 0.3100000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "foundation",
+      "similarity": 0.18930000066757202,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "startup",
+      "similarity": 0.17299999296665192,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "network",
+      "similarity": 0.13379999995231628,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "ngo",
+      "similarity": 0.08219999819993973,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "agency",
+      "similarity": 0.24269999563694,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "coalition",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "syndicate",
+      "similarity": 0.08060000091791153,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "federation",
+      "similarity": 0.20020000636577606,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "enterprise",
+      "similarity": 0.15230000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "conglomerate",
+      "similarity": 0.17749999463558197,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "consortium",
+      "similarity": 0.15729999542236328,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "venture",
+      "similarity": 0.16840000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "partnership",
+      "similarity": 0.1817999929189682,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "nonprofit",
+      "similarity": 0.2989000082015991,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "non-governmental",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "society",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "institution",
+      "similarity": 0.12780000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "cooperative",
+      "similarity": 0.12489999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "group",
+      "similarity": 0.193900004029274,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "nonprofit",
+      "similarity": 0.2989000082015991,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "institute",
+      "similarity": 0.21690000593662262,
+      "rank": -1
+    },
+    {
+      "guess_number": 118,
+      "word": "institution",
+      "similarity": 0.12780000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 119,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 120,
+      "word": "coalition",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 121,
+      "word": "charity",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 122,
+      "word": "initiative",
+      "similarity": 0.12729999423027039,
+      "rank": -1
+    },
+    {
+      "guess_number": 123,
+      "word": "corporate",
+      "similarity": 0.34599998593330383,
+      "rank": -1
+    },
+    {
+      "guess_number": 124,
+      "word": "enterprise",
+      "similarity": 0.15230000019073486,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 124,
+  "total_unique_guesses": 74
+}

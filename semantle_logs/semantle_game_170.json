@@ -1,0 +1,183 @@
+{
+  "game_id": 170,
+  "answer": "achievement",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.15189999341964722,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.14640000462532043,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": 0.12290000170469284,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.10209999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mood",
+      "similarity": 0.08739999681711197,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "affection",
+      "similarity": 0.16859999299049377,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "love",
+      "similarity": 0.04919999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "compassion",
+      "similarity": 0.10189999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "passion",
+      "similarity": 0.210999995470047,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "desire",
+      "similarity": 0.19280000030994415,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "yearning",
+      "similarity": 0.09799999743700027,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "longing",
+      "similarity": 0.05429999902844429,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "attraction",
+      "similarity": 0.16050000488758087,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "romance",
+      "similarity": 0.02410000003874302,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "attachment",
+      "similarity": 0.06679999828338623,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "enthusiasm",
+      "similarity": 0.28369998931884766,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "joy",
+      "similarity": 0.24230000376701355,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "happiness",
+      "similarity": 0.24979999661445618,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "excitement",
+      "similarity": 0.20020000636577606,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "delight",
+      "similarity": 0.2305999994277954,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "satisfaction",
+      "similarity": 0.37470000982284546,
+      "rank": 198
+    },
+    {
+      "guess_number": 22,
+      "word": "contentment",
+      "similarity": 0.21709999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "gratification",
+      "similarity": 0.21480000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "pleasure",
+      "similarity": 0.2833999991416931,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "fulfillment",
+      "similarity": 0.2328999936580658,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "bliss",
+      "similarity": 0.08980000019073486,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "pride",
+      "similarity": 0.3077999949455261,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "accomplishment",
+      "similarity": 0.7254999876022339,
+      "rank": 2
+    },
+    {
+      "guess_number": 29,
+      "word": "achievement",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 29,
+  "total_unique_guesses": 29
+}

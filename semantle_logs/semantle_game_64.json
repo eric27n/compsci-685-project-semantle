@@ -1,0 +1,513 @@
+{
+  "game_id": 64,
+  "answer": "direct",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": -0.029400000348687172,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.08060000091791153,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.08259999752044678,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.0934000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": 0.03799999877810478,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mind",
+      "similarity": 0.10970000177621841,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "intellect",
+      "similarity": 0.07840000092983246,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "consciousness",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "brain",
+      "similarity": 0.09830000251531601,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "intelligence",
+      "similarity": 0.10939999669790268,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "knowledge",
+      "similarity": 0.16920000314712524,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "cognition",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "wisdom",
+      "similarity": 0.07540000230073929,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "learning",
+      "similarity": 0.029500000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "understanding",
+      "similarity": 0.1818999946117401,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "reasoning",
+      "similarity": 0.08869999647140503,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "awareness",
+      "similarity": 0.13300000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "comprehension",
+      "similarity": 0.12470000237226486,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "insight",
+      "similarity": 0.14589999616146088,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "logic",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "analysis",
+      "similarity": 0.1143999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "education",
+      "similarity": 0.0934000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intuition",
+      "similarity": 0.11159999668598175,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "memory",
+      "similarity": -0.04410000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "philosophy",
+      "similarity": 0.12770000100135803,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "epistemology",
+      "similarity": 0.08290000259876251,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "cognition",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "thinking",
+      "similarity": 0.029400000348687172,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "theory",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "rationality",
+      "similarity": 0.10270000249147415,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "psychology",
+      "similarity": 0.04769999906420708,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "reflection",
+      "similarity": 0.1679999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "cognition",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "contemplation",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "cognition",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "cognition",
+      "similarity": 0.07240000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "consciousness",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "consciousness",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "consciousness",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "perception",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 84,
+  "total_unique_guesses": 34
+}

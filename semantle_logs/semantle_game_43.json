@@ -1,0 +1,549 @@
+{
+  "game_id": 43,
+  "answer": "greet",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.0892999991774559,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.10400000214576721,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.03480000048875809,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mood",
+      "similarity": 0.13519999384880066,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.03880000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "attitude",
+      "similarity": 0.09929999709129333,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mindset",
+      "similarity": 0.06369999796152115,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "perception",
+      "similarity": 0.015599999576807022,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "sentiment",
+      "similarity": 0.0617000013589859,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intuition",
+      "similarity": 0.003599999938160181,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "psychology",
+      "similarity": -0.027699999511241913,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "affect",
+      "similarity": 0.07720000296831131,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "disposition",
+      "similarity": 0.01860000006854534,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "joy",
+      "similarity": 0.19599999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "contentment",
+      "similarity": 0.10050000250339508,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "excitement",
+      "similarity": 0.19769999384880066,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "enthusiasm",
+      "similarity": 0.22010000050067902,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "passion",
+      "similarity": 0.06769999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "elation",
+      "similarity": 0.18060000240802765,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "optimism",
+      "similarity": 0.08290000259876251,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "delight",
+      "similarity": 0.31529998779296875,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "cheerfulness",
+      "similarity": 0.17000000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "pleasure",
+      "similarity": 0.08760000020265579,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "satisfaction",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "euphoria",
+      "similarity": 0.09969999641180038,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "bliss",
+      "similarity": 0.06509999930858612,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "ecstasy",
+      "similarity": 0.032099999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "delightful",
+      "similarity": 0.18569999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "jubilation",
+      "similarity": 0.25119999051094055,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "harmony",
+      "similarity": 0.06729999929666519,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "glee",
+      "similarity": 0.20200000703334808,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "delightfulness",
+      "similarity": 0.18490000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "gratification",
+      "similarity": 0.03720000013709068,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "exhilaration",
+      "similarity": 0.16850000619888306,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "ecstasy",
+      "similarity": 0.032099999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "ecstasy",
+      "similarity": 0.032099999487400055,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "celebration",
+      "similarity": 0.2777000069618225,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "festivity",
+      "similarity": 0.17309999465942383,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "festival",
+      "similarity": 0.10999999940395355,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "blissful",
+      "similarity": 0.12489999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "gratitude",
+      "similarity": 0.22040000557899475,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "happiness",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 90,
+  "total_unique_guesses": 40
+}

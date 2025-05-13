@@ -1,0 +1,597 @@
+{
+  "game_id": 30,
+  "answer": "spy",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.026900000870227814,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.05559999868273735,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.0778999999165535,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "perception",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "awareness",
+      "similarity": -0.06729999929666519,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "thought",
+      "similarity": 0.0860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "consciousness",
+      "similarity": 0.007199999876320362,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "intuition",
+      "similarity": 0.10809999704360962,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "insight",
+      "similarity": 0.06030000001192093,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "cognition",
+      "similarity": 0.03060000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "understanding",
+      "similarity": 0.04450000077486038,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "idea",
+      "similarity": 0.11349999904632568,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "concept",
+      "similarity": 0.08219999819993973,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "knowledge",
+      "similarity": 0.09070000052452087,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "imagination",
+      "similarity": 0.18520000576972961,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "creativity",
+      "similarity": 0.01140000019222498,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "mind",
+      "similarity": 0.006899999920278788,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "dream",
+      "similarity": 0.09210000187158585,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "innovation",
+      "similarity": 0.025800000876188278,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "vision",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "inspiration",
+      "similarity": 0.07440000027418137,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "hallucination",
+      "similarity": 0.12610000371932983,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "belief",
+      "similarity": 0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "illusion",
+      "similarity": 0.11580000072717667,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "fiction",
+      "similarity": 0.17739999294281006,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "delusion",
+      "similarity": 0.11309999972581863,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "myth",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "narrative",
+      "similarity": 0.14589999616146088,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "story",
+      "similarity": 0.163100004196167,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "literature",
+      "similarity": 0.08089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "fable",
+      "similarity": 0.1623000055551529,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "tale",
+      "similarity": 0.17260000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "parable",
+      "similarity": 0.09769999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "mythology",
+      "similarity": 0.19280000030994415,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "folktale",
+      "similarity": 0.09950000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "allegory",
+      "similarity": 0.1720000058412552,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "archetype",
+      "similarity": 0.17489999532699585,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "symbol",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "saga",
+      "similarity": 0.16410000622272491,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "fairy",
+      "similarity": 0.18559999763965607,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "superstition",
+      "similarity": 0.05719999969005585,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "lore",
+      "similarity": 0.0949999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "fable",
+      "similarity": 0.1623000055551529,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "epic",
+      "similarity": 0.11760000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "mythical",
+      "similarity": 0.14569999277591705,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "legendary",
+      "similarity": 0.0966000035405159,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "folklore",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "fantasy",
+      "similarity": 0.1396999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "legend",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 98,
+  "total_unique_guesses": 48
+}

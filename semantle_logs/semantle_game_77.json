@@ -1,0 +1,333 @@
+{
+  "game_id": 77,
+  "answer": "grateful",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.07989999651908875,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.2515000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "mood",
+      "similarity": 0.054999999701976776,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sensation",
+      "similarity": -0.04740000143647194,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "sentiment",
+      "similarity": 0.04699999839067459,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "affection",
+      "similarity": 0.23100000619888306,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "love",
+      "similarity": 0.3384999930858612,
+      "rank": 776
+    },
+    {
+      "guess_number": 8,
+      "word": "passion",
+      "similarity": 0.26440000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "adoration",
+      "similarity": 0.13379999995231628,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "romance",
+      "similarity": -0.05079999938607216,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "attachment",
+      "similarity": 0.05000000074505806,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "intimacy",
+      "similarity": 0.0044999998062849045,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "desire",
+      "similarity": 0.1768999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "companionship",
+      "similarity": 0.18889999389648438,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "friendship",
+      "similarity": 0.21649999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "attraction",
+      "similarity": -0.01489999983459711,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "compassion",
+      "similarity": 0.35030001401901245,
+      "rank": 605
+    },
+    {
+      "guess_number": 18,
+      "word": "empathy",
+      "similarity": 0.18539999425411224,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "kindness",
+      "similarity": 0.3840000033378601,
+      "rank": 321
+    },
+    {
+      "guess_number": 20,
+      "word": "altruism",
+      "similarity": 0.11720000207424164,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "charity",
+      "similarity": 0.16529999673366547,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "generosity",
+      "similarity": 0.49399998784065247,
+      "rank": 68
+    },
+    {
+      "guess_number": 23,
+      "word": "benevolence",
+      "similarity": 0.27709999680519104,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "philanthropy",
+      "similarity": 0.21289999783039093,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "gratitude",
+      "similarity": 0.6075000166893005,
+      "rank": 23
+    },
+    {
+      "guess_number": 26,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 27,
+      "word": "thankfulness",
+      "similarity": 0.38580000400543213,
+      "rank": 315
+    },
+    {
+      "guess_number": 28,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 29,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 30,
+      "word": "gratitude",
+      "similarity": 0.6075000166893005,
+      "rank": 23
+    },
+    {
+      "guess_number": 31,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 32,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 33,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 34,
+      "word": "thanksgiving",
+      "similarity": 0.22939999401569366,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "respect",
+      "similarity": 0.2515999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 37,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 38,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 39,
+      "word": "generosity",
+      "similarity": 0.49399998784065247,
+      "rank": 68
+    },
+    {
+      "guess_number": 40,
+      "word": "thankfulness",
+      "similarity": 0.38580000400543213,
+      "rank": 315
+    },
+    {
+      "guess_number": 41,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 42,
+      "word": "acknowledgment",
+      "similarity": 0.25850000977516174,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "happiness",
+      "similarity": 0.14020000398159027,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "admiration",
+      "similarity": 0.3434999883174896,
+      "rank": 698
+    },
+    {
+      "guess_number": 45,
+      "word": "gratefulness",
+      "similarity": 0.48399999737739563,
+      "rank": 73
+    },
+    {
+      "guess_number": 46,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 47,
+      "word": "appreciation",
+      "similarity": 0.3359000086784363,
+      "rank": 820
+    },
+    {
+      "guess_number": 48,
+      "word": "appreciativeness",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "thankfulness",
+      "similarity": 0.38580000400543213,
+      "rank": 315
+    },
+    {
+      "guess_number": 50,
+      "word": "thankfulness",
+      "similarity": 0.38580000400543213,
+      "rank": 315
+    },
+    {
+      "guess_number": 51,
+      "word": "thankful",
+      "similarity": 0.8977000117301941,
+      "rank": 1
+    },
+    {
+      "guess_number": 52,
+      "word": "appreciate",
+      "similarity": 0.5945000052452087,
+      "rank": 28
+    },
+    {
+      "guess_number": 53,
+      "word": "appreciative",
+      "similarity": 0.7832000255584717,
+      "rank": 3
+    },
+    {
+      "guess_number": 54,
+      "word": "grateful",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 54,
+  "total_unique_guesses": 38
+}

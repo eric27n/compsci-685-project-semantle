@@ -1,0 +1,579 @@
+{
+  "game_id": 130,
+  "answer": "related",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.015399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": -0.07150000333786011,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "state",
+      "similarity": 0.08810000121593475,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "status",
+      "similarity": 0.08720000088214874,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "situation",
+      "similarity": -0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "affection",
+      "similarity": -0.03530000150203705,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "phase",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "mood",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "circumstance",
+      "similarity": 0.10869999974966049,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "scenario",
+      "similarity": -0.04270000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "incident",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "circumstance",
+      "similarity": 0.10869999974966049,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "occurrence",
+      "similarity": 0.21850000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "happening",
+      "similarity": 0.1459999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "instance",
+      "similarity": 0.19840000569820404,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "phenomenon",
+      "similarity": 0.11620000004768372,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "episode",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "experience",
+      "similarity": 0.06019999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "manifestation",
+      "similarity": 0.19370000064373016,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "appearance",
+      "similarity": 0.033399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "case",
+      "similarity": 0.21119999885559082,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "fact",
+      "similarity": 0.08739999681711197,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "concept",
+      "similarity": -0.04610000178217888,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "manifest",
+      "similarity": 0.19259999692440033,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "existence",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "example",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "situation",
+      "similarity": -0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "situation",
+      "similarity": -0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "situation",
+      "similarity": -0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "symptom",
+      "similarity": 0.20640000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "symptomatology",
+      "similarity": 0.13979999721050262,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "syndrome",
+      "similarity": 0.08110000193119049,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "eventuality",
+      "similarity": 0.054099999368190765,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "presentation",
+      "similarity": 0.03519999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "manifestation",
+      "similarity": 0.19370000064373016,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "symptom",
+      "similarity": 0.20640000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "diagnosis",
+      "similarity": 0.05909999832510948,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "disease",
+      "similarity": 0.0763000026345253,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "symptom",
+      "similarity": 0.20640000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "symptom",
+      "similarity": 0.20640000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "ailment",
+      "similarity": 0.03669999912381172,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "episode",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "illness",
+      "similarity": 0.12359999865293503,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "outbreak",
+      "similarity": 0.10080000013113022,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "manifestation",
+      "similarity": 0.19370000064373016,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "situation",
+      "similarity": -0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "symptoms",
+      "similarity": 0.09229999780654907,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "incident",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "indication",
+      "similarity": 0.14749999344348907,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "anomaly",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "diagnosis",
+      "similarity": 0.05909999832510948,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "reaction",
+      "similarity": 0.08839999884366989,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "incident",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "episode",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "incident",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "evidence",
+      "similarity": 0.1251000016927719,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "diagnosis",
+      "similarity": 0.05909999832510948,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "incident",
+      "similarity": 0.0575999990105629,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "infection",
+      "similarity": 0.009399999864399433,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "diagnosis",
+      "similarity": 0.05909999832510948,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "indicator",
+      "similarity": 0.12999999523162842,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "sign",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "event",
+      "similarity": 0.06889999657869339,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "condition",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "symptom",
+      "similarity": 0.20640000700950623,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 95,
+  "total_unique_guesses": 45
+}

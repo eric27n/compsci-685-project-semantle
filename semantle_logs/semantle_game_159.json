@@ -1,0 +1,495 @@
+{
+  "game_id": 159,
+  "answer": "fork",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.01940000057220459,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "animal",
+      "similarity": 0.036400001496076584,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "object",
+      "similarity": 0.22030000388622284,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "concept",
+      "similarity": 0.11309999972581863,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "tool",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "instrument",
+      "similarity": 0.13580000400543213,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "device",
+      "similarity": 0.14470000565052032,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "machine",
+      "similarity": 0.21490000188350677,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "gadget",
+      "similarity": 0.16050000488758087,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "appliance",
+      "similarity": 0.1031000018119812,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "equipment",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "mechanism",
+      "similarity": 0.13699999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "technology",
+      "similarity": 0.08229999989271164,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "engine",
+      "similarity": 0.11760000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "robot",
+      "similarity": 0.11749999970197678,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "invention",
+      "similarity": 0.07800000160932541,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "hardware",
+      "similarity": 0.14190000295639038,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "contrivance",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "automaton",
+      "similarity": 0.09130000323057175,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "widget",
+      "similarity": 0.14300000667572021,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "machinery",
+      "similarity": 0.10890000313520432,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "automation",
+      "similarity": 0.026900000870227814,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "implement",
+      "similarity": 0.1378999948501587,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "contrivance",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "craft",
+      "similarity": 0.060600001364946365,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "instrumentation",
+      "similarity": 0.06880000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "engineer",
+      "similarity": 0.05660000070929527,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "equipment",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "vehicular",
+      "similarity": 0.04969999939203262,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "contrivance",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "contrivance",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "contrivance",
+      "similarity": 0.11209999769926071,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "utility",
+      "similarity": 0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "construction",
+      "similarity": 0.044599998742341995,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "contraption",
+      "similarity": 0.22089999914169312,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "apparatus",
+      "similarity": 0.013700000010430813,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 81,
+  "total_unique_guesses": 31
+}

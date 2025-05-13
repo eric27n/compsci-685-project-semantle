@@ -1,0 +1,639 @@
+{
+  "game_id": 111,
+  "answer": "commercial",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.02419999986886978,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": -0.002400000113993883,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.06019999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.0632999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.16339999437332153,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": -9.999999747378752e-05,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "belief",
+      "similarity": -0.017100000753998756,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "theory",
+      "similarity": 0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "perception",
+      "similarity": 0.007699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "interpretation",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "philosophy",
+      "similarity": -0.019999999552965164,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "understanding",
+      "similarity": 0.042399998754262924,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "mind",
+      "similarity": 0.002899999963119626,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "insight",
+      "similarity": 0.042500000447034836,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "knowledge",
+      "similarity": 0.06159999966621399,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "innovation",
+      "similarity": 0.23499999940395355,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "creativity",
+      "similarity": 0.16110000014305115,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "invention",
+      "similarity": 0.19550000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "design",
+      "similarity": 0.21660000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "art",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "technology",
+      "similarity": 0.27219998836517334,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "engineering",
+      "similarity": 0.21580000221729279,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "gadget",
+      "similarity": 0.0723000019788742,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "machine",
+      "similarity": 0.055799998342990875,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "science",
+      "similarity": 0.1234000027179718,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "device",
+      "similarity": 0.13089999556541443,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "electronics",
+      "similarity": 0.17110000550746918,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "robotics",
+      "similarity": 0.16519999504089355,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "industry",
+      "similarity": 0.3359000086784363,
+      "rank": 582
+    },
+    {
+      "guess_number": 31,
+      "word": "manufacturing",
+      "similarity": 0.33559998869895935,
+      "rank": 591
+    },
+    {
+      "guess_number": 32,
+      "word": "industrial",
+      "similarity": 0.4862000048160553,
+      "rank": 13
+    },
+    {
+      "guess_number": 33,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "production",
+      "similarity": 0.2937999963760376,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "mechanics",
+      "similarity": 0.07670000195503235,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "construction",
+      "similarity": 0.257999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "mechanization",
+      "similarity": 0.14180000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "workshop",
+      "similarity": 0.09220000356435776,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "industrialism",
+      "similarity": 0.11590000241994858,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "assembly",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "mechanism",
+      "similarity": 0.02239999920129776,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "mechanical",
+      "similarity": 0.17790000140666962,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "manufacture",
+      "similarity": 0.2565000057220459,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "processing",
+      "similarity": 0.22460000216960907,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "engineering",
+      "similarity": 0.21580000221729279,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "economy",
+      "similarity": 0.1282999962568283,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "enterprise",
+      "similarity": 0.28790000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "transportation",
+      "similarity": 0.20250000059604645,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "plant",
+      "similarity": 0.15379999577999115,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "textile",
+      "similarity": 0.08820000290870667,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "enterprise",
+      "similarity": 0.28790000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "infrastructure",
+      "similarity": 0.21209999918937683,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "factory",
+      "similarity": 0.15109999477863312,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "logistics",
+      "similarity": 0.14470000565052032,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "corporation",
+      "similarity": 0.26910001039505005,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "engineering",
+      "similarity": 0.21580000221729279,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "automation",
+      "similarity": 0.2061000019311905,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "machinery",
+      "similarity": 0.13510000705718994,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "mechanization",
+      "similarity": 0.14180000126361847,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "labor",
+      "similarity": 0.06790000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "industrialization",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 105,
+  "total_unique_guesses": 55
+}

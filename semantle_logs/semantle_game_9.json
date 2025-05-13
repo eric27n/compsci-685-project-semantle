@@ -1,0 +1,621 @@
+{
+  "game_id": 9,
+  "answer": "candle",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "concept",
+      "similarity": 0.03929999843239784,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "idea",
+      "similarity": 0.12720000743865967,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.09549999982118607,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "notion",
+      "similarity": 0.10010000318288803,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "belief",
+      "similarity": 0.1444000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "philosophy",
+      "similarity": 0.06970000267028809,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "theory",
+      "similarity": 0.14640000462532043,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "hypothesis",
+      "similarity": 0.12540000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "understanding",
+      "similarity": 0.03929999843239784,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "perception",
+      "similarity": 0.08229999989271164,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "intuition",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "knowledge",
+      "similarity": 0.015599999576807022,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "insight",
+      "similarity": -0.02199999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "consciousness",
+      "similarity": 0.14390000700950623,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "awareness",
+      "similarity": 0.08489999920129776,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "mind",
+      "similarity": 0.19979999959468842,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "cognition",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "wisdom",
+      "similarity": 0.12280000001192093,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "intellect",
+      "similarity": 0.06080000102519989,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "reasoning",
+      "similarity": 0.07460000365972519,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "memory",
+      "similarity": 0.25929999351501465,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "imagination",
+      "similarity": 0.13300000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "learning",
+      "similarity": 0.06629999727010727,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "emotion",
+      "similarity": 0.07900000363588333,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "subconscious",
+      "similarity": 0.09380000084638596,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "reflection",
+      "similarity": 0.19249999523162842,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "recognition",
+      "similarity": 0.03539999946951866,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "insight",
+      "similarity": -0.02199999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "dream",
+      "similarity": 0.2054000049829483,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "psyche",
+      "similarity": 0.04320000112056732,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "reality",
+      "similarity": 0.11699999868869781,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "remembrance",
+      "similarity": 0.39820000529289246,
+      "rank": 300
+    },
+    {
+      "guess_number": 34,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "reminiscence",
+      "similarity": 0.11509999632835388,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "reminder",
+      "similarity": 0.15029999613761902,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "remembering",
+      "similarity": 0.2134999930858612,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "recall",
+      "similarity": 0.06960000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "meditation",
+      "similarity": 0.2856999933719635,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "contemplation",
+      "similarity": 0.19429999589920044,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "commemoration",
+      "similarity": 0.2572000026702881,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "anniversary",
+      "similarity": 0.1956000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "recall",
+      "similarity": 0.06960000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "concentration",
+      "similarity": 0.08340000361204147,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "reverie",
+      "similarity": 0.18860000371932983,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "ceremony",
+      "similarity": 0.2542000114917755,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "memorial",
+      "similarity": 0.3075999915599823,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "tribute",
+      "similarity": 0.1842000037431717,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "legacy",
+      "similarity": 0.09369999915361404,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "commemorate",
+      "similarity": 0.2363000065088272,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "heritage",
+      "similarity": 0.05260000005364418,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "reminder",
+      "similarity": 0.15029999613761902,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "reminiscent",
+      "similarity": 0.030400000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "remembrance",
+      "similarity": 0.39820000529289246,
+      "rank": 300
+    },
+    {
+      "guess_number": 83,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "remembrance_day",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "recall",
+      "similarity": 0.06960000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "remember",
+      "similarity": 0.2370000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "recollection",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "remembrance",
+      "similarity": 0.39820000529289246,
+      "rank": 300
+    },
+    {
+      "guess_number": 101,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "nostalgia",
+      "similarity": 0.059700001031160355,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 102,
+  "total_unique_guesses": 52
+}

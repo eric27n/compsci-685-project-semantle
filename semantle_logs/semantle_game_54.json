@@ -1,0 +1,585 @@
+{
+  "game_id": 54,
+  "answer": "rocket",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.023800000548362732,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.08579999953508377,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.1080000028014183,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.0731000006198883,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "experience",
+      "similarity": -0.0024999999441206455,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.012199999764561653,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "intuition",
+      "similarity": 0.08389999717473984,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "impression",
+      "similarity": 0.000699999975040555,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "sense",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "insight",
+      "similarity": 0.012000000104308128,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "cognition",
+      "similarity": 0.051500000059604645,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "mind",
+      "similarity": 0.039900001138448715,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "recognition",
+      "similarity": 0.03519999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "psychology",
+      "similarity": 0.03720000013709068,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "emotion",
+      "similarity": 0.023800000548362732,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "belief",
+      "similarity": 0.04989999905228615,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "awareness",
+      "similarity": -0.0034000000450760126,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "judgment",
+      "similarity": 0.02539999969303608,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "understanding",
+      "similarity": 0.0364999994635582,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "idea",
+      "similarity": 0.07970000058412552,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "concept",
+      "similarity": 0.08900000154972076,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "imagination",
+      "similarity": 0.11020000278949738,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "reflection",
+      "similarity": 0.06639999896287918,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "creativity",
+      "similarity": 0.10599999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "intellect",
+      "similarity": 0.038100000470876694,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "inspiration",
+      "similarity": 0.06769999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "innovation",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "vision",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "brainstorming",
+      "similarity": 0.09239999949932098,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "dream",
+      "similarity": 0.10589999705553055,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "visionary",
+      "similarity": 0.017100000753998756,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "fiction",
+      "similarity": 0.07919999957084656,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "illusion",
+      "similarity": 0.06120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "art",
+      "similarity": 0.05779999867081642,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "dreamscape",
+      "similarity": 0.02290000021457672,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "subconscious",
+      "similarity": 0.017799999564886093,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "imagination",
+      "similarity": 0.11020000278949738,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "subconsciousness",
+      "similarity": 0.0032999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "daydream",
+      "similarity": 0.13220000267028809,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "phantasm",
+      "similarity": 0.03220000118017197,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "fantasyland",
+      "similarity": 0.08820000290870667,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "creativity",
+      "similarity": 0.10599999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "visualization",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "creativity",
+      "similarity": 0.10599999874830246,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "subconscious",
+      "similarity": 0.017799999564886093,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "visualization",
+      "similarity": 0.034699998795986176,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "perception",
+      "similarity": -0.02280000038444996,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "imaginative",
+      "similarity": 0.050599999725818634,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "consciousness",
+      "similarity": 0.012199999764561653,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "visionary",
+      "similarity": 0.017100000753998756,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "subconscious",
+      "similarity": 0.017799999564886093,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "whimsy",
+      "similarity": 0.08449999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "hallucination",
+      "similarity": 0.03849999979138374,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "reverie",
+      "similarity": 0.02070000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "fantasy",
+      "similarity": 0.1688999980688095,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 96,
+  "total_unique_guesses": 46
+}

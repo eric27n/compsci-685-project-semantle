@@ -1,0 +1,561 @@
+{
+  "game_id": 6,
+  "answer": "eager",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.10890000313520432,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.2378000020980835,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.11079999804496765,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sensation",
+      "similarity": 0.03310000151395798,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "perception",
+      "similarity": 0.11999999731779099,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "awareness",
+      "similarity": 0.019500000402331352,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intuition",
+      "similarity": 0.025299999862909317,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.027799999341368675,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "mind",
+      "similarity": 0.1370999962091446,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "psychology",
+      "similarity": 0.06700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "cognition",
+      "similarity": -0.05640000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "awareness",
+      "similarity": 0.019500000402331352,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "experience",
+      "similarity": 0.15469999611377716,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "sentiment",
+      "similarity": 0.12080000340938568,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "intuition",
+      "similarity": 0.025299999862909317,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "affection",
+      "similarity": 0.20280000567436218,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "love",
+      "similarity": 0.23180000483989716,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "emotion",
+      "similarity": 0.10890000313520432,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "passion",
+      "similarity": 0.2021999955177307,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "relationship",
+      "similarity": 0.11819999665021896,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "happiness",
+      "similarity": 0.09269999712705612,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "desire",
+      "similarity": 0.44209998846054077,
+      "rank": 82
+    },
+    {
+      "guess_number": 23,
+      "word": "longing",
+      "similarity": 0.35580000281333923,
+      "rank": 284
+    },
+    {
+      "guess_number": 24,
+      "word": "yearning",
+      "similarity": 0.4074000120162964,
+      "rank": 132
+    },
+    {
+      "guess_number": 25,
+      "word": "craving",
+      "similarity": 0.28870001435279846,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "ambition",
+      "similarity": 0.2535000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "wish",
+      "similarity": 0.3416999876499176,
+      "rank": 373
+    },
+    {
+      "guess_number": 29,
+      "word": "want",
+      "similarity": 0.48910000920295715,
+      "rank": 41
+    },
+    {
+      "guess_number": 30,
+      "word": "need",
+      "similarity": 0.3781000077724457,
+      "rank": 197
+    },
+    {
+      "guess_number": 31,
+      "word": "goal",
+      "similarity": 0.1492999941110611,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "urge",
+      "similarity": 0.3833000063896179,
+      "rank": 183
+    },
+    {
+      "guess_number": 33,
+      "word": "motivation",
+      "similarity": 0.22290000319480896,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "intention",
+      "similarity": 0.19439999759197235,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "wishful",
+      "similarity": 0.16110000014305115,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "hunger",
+      "similarity": 0.1331000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "intent",
+      "similarity": 0.24490000307559967,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "aspire",
+      "similarity": 0.29789999127388,
+      "rank": 899
+    },
+    {
+      "guess_number": 42,
+      "word": "hope",
+      "similarity": 0.39890000224113464,
+      "rank": 147
+    },
+    {
+      "guess_number": 43,
+      "word": "lust",
+      "similarity": 0.15189999341964722,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "interest",
+      "similarity": 0.15279999375343323,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "anticipation",
+      "similarity": 0.2160000056028366,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "dream",
+      "similarity": 0.20679999887943268,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "crave",
+      "similarity": 0.3151000142097473,
+      "rank": 624
+    },
+    {
+      "guess_number": 48,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "wishful",
+      "similarity": 0.16110000014305115,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "hunger",
+      "similarity": 0.1331000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "covet",
+      "similarity": 0.33250001072883606,
+      "rank": 442
+    },
+    {
+      "guess_number": 79,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "hunger",
+      "similarity": 0.1331000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "aspiration",
+      "similarity": 0.1467999964952469,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 92,
+  "total_unique_guesses": 42
+}

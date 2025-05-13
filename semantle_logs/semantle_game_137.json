@@ -1,0 +1,525 @@
+{
+  "game_id": 137,
+  "answer": "efficiency",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.0697999969124794,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.061799999326467514,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.007499999832361937,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.04529999941587448,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "psychology",
+      "similarity": 0.008100000210106373,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "intellect",
+      "similarity": 0.20600000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "intelligence",
+      "similarity": 0.13030000030994415,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "cognition",
+      "similarity": 0.1370999962091446,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "reasoning",
+      "similarity": 0.04919999837875366,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "brain",
+      "similarity": 0.027799999341368675,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "knowledge",
+      "similarity": 0.10649999976158142,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "wisdom",
+      "similarity": 0.10040000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "consciousness",
+      "similarity": 0.10679999738931656,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "perception",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "understanding",
+      "similarity": 0.14839999377727509,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "insight",
+      "similarity": 0.12790000438690186,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "comprehension",
+      "similarity": 0.19499999284744263,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "mindfulness",
+      "similarity": 0.19020000100135803,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "intuition",
+      "similarity": 0.07580000162124634,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "perception",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "self-awareness",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "attention",
+      "similarity": 0.08219999819993973,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "vigilance",
+      "similarity": 0.22419999539852142,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "concentration",
+      "similarity": 0.20280000567436218,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "focus",
+      "similarity": 0.14270000159740448,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "observation",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "meditation",
+      "similarity": 0.09030000120401382,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "reflection",
+      "similarity": 0.09200000017881393,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "conscious",
+      "similarity": 0.1395999938249588,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "alerted",
+      "similarity": -0.020899999886751175,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "mindset",
+      "similarity": 0.12620000541210175,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "awareness",
+      "similarity": 0.2361000031232834,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "perceptiveness",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "sensitivity",
+      "similarity": 0.266400009393692,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "alertness",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "acuity",
+      "similarity": 0.2451999932527542,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "perception",
+      "similarity": 0.09059999883174896,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "alert",
+      "similarity": 0.06669999659061432,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 86,
+  "total_unique_guesses": 36
+}

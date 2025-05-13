@@ -1,0 +1,663 @@
+{
+  "game_id": 15,
+  "answer": "tail",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.03620000183582306,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.1307000070810318,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sensation",
+      "similarity": 0.08659999817609787,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.15690000355243683,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "perception",
+      "similarity": 0.09740000218153,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "awareness",
+      "similarity": -0.04010000079870224,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "consciousness",
+      "similarity": 0.08229999989271164,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "mind",
+      "similarity": 0.08730000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "cognition",
+      "similarity": 0.08550000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "intelligence",
+      "similarity": 0.11680000275373459,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "understanding",
+      "similarity": 0.02539999969303608,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "intuition",
+      "similarity": 0.022700000554323196,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "psychology",
+      "similarity": 0.08810000121593475,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "brain",
+      "similarity": 0.1551000028848648,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "neuroscience",
+      "similarity": 0.012500000186264515,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "memory",
+      "similarity": -0.008799999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "neural",
+      "similarity": 0.11879999935626984,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "conscious",
+      "similarity": 0.01590000092983246,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "logic",
+      "similarity": 0.061000000685453415,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "reasoning",
+      "similarity": 0.05079999938607216,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "learning",
+      "similarity": 0.020400000736117363,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "neuron",
+      "similarity": 0.16910000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "synapse",
+      "similarity": 0.14149999618530273,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "nerve",
+      "similarity": 0.1500999927520752,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "cerebrum",
+      "similarity": 0.14249999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "cortex",
+      "similarity": 0.1876000016927719,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "axon",
+      "similarity": 0.21240000426769257,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "cerebellum",
+      "similarity": 0.2540000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "spinal",
+      "similarity": 0.16830000281333923,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "neurology",
+      "similarity": 0.10010000318288803,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "medulla",
+      "similarity": 0.22910000383853912,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "thalamus",
+      "similarity": 0.147599995136261,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "nervous",
+      "similarity": 0.09260000288486481,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "brainstem",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "neuroscience",
+      "similarity": 0.012500000186264515,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "brainstem",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "cerebrospinal",
+      "similarity": 0.040300000458955765,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "neurotransmitter",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "glia",
+      "similarity": 0.1234000027179718,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "frontal",
+      "similarity": 0.18140000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "cognitive",
+      "similarity": 0.0215000007301569,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "cognition",
+      "similarity": 0.08550000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "cognition",
+      "similarity": 0.08550000190734863,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "gray-matter",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "amygdala",
+      "similarity": 0.12610000371932983,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "cognitive",
+      "similarity": 0.0215000007301569,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "occipital",
+      "similarity": 0.26930001378059387,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "parietal",
+      "similarity": 0.19769999384880066,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "lobes",
+      "similarity": 0.3508000075817108,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "hemisphere",
+      "similarity": 0.08649999648332596,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "temporal",
+      "similarity": 0.12240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "skull",
+      "similarity": 0.31940001249313354,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "cranium",
+      "similarity": 0.2847000062465668,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "hemisphere",
+      "similarity": 0.08649999648332596,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "dendrite",
+      "similarity": 0.23100000619888306,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "hemisphere",
+      "similarity": 0.08649999648332596,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "hemisphere",
+      "similarity": 0.08649999648332596,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "gray",
+      "similarity": 0.22869999706745148,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "midbrain",
+      "similarity": 0.22130000591278076,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "hypothalamus",
+      "similarity": 0.15629999339580536,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "hemispheres",
+      "similarity": 0.19380000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "temporal",
+      "similarity": 0.12240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "hippocampus",
+      "similarity": 0.120899997651577,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "cerebral-cortex",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "cerebrum",
+      "similarity": 0.14249999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "forebrain",
+      "similarity": 0.20579999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "neural_network",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "brainstem",
+      "similarity": 0.121799997985363,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "cerebral-cortex",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "cerebrum",
+      "similarity": 0.14249999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "cerebral",
+      "similarity": 0.06530000269412994,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 109,
+  "total_unique_guesses": 59
+}

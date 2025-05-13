@@ -1,0 +1,525 @@
+{
+  "game_id": 69,
+  "answer": "asset",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.08889999985694885,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.07270000129938126,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": 0.09560000151395798,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "thought",
+      "similarity": 0.1404000073671341,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.13210000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "concept",
+      "similarity": 0.09679999947547913,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "belief",
+      "similarity": 0.14790000021457672,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "philosophy",
+      "similarity": 0.14059999585151672,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "mind",
+      "similarity": 0.050200000405311584,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "perception",
+      "similarity": 0.09799999743700027,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "opinion",
+      "similarity": 0.16269999742507935,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "insight",
+      "similarity": 0.12710000574588776,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "judgment",
+      "similarity": 0.17399999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "wisdom",
+      "similarity": 0.11289999634027481,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "intuition",
+      "similarity": 0.14550000429153442,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "reasoning",
+      "similarity": 0.1290999948978424,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "understanding",
+      "similarity": 0.12110000103712082,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "rationality",
+      "similarity": 0.1120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "psychology",
+      "similarity": 0.11420000344514847,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "knowledge",
+      "similarity": 0.18940000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "intellect",
+      "similarity": 0.19750000536441803,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intelligence",
+      "similarity": 0.14059999585151672,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "perspective",
+      "similarity": 0.1459999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "awareness",
+      "similarity": 0.028999999165534973,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "reflection",
+      "similarity": 0.13249999284744263,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "comprehension",
+      "similarity": 0.08619999885559082,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "analysis",
+      "similarity": 0.1281999945640564,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "interpretation",
+      "similarity": 0.08340000361204147,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "reason",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "assumption",
+      "similarity": 0.20280000567436218,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "perception",
+      "similarity": 0.09799999743700027,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "theory",
+      "similarity": 0.11739999800920486,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "conclusion",
+      "similarity": 0.03790000081062317,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "beliefs",
+      "similarity": 0.13040000200271606,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "interpretation",
+      "similarity": 0.08340000361204147,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "logic",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "consciousness",
+      "similarity": 0.014800000004470348,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "cognition",
+      "similarity": 0.0786999985575676,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 86,
+  "total_unique_guesses": 36
+}

@@ -1,0 +1,279 @@
+{
+  "game_id": 186,
+  "answer": "factory",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.0031999999191612005,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.0625,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.05779999867081642,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.029899999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mind",
+      "similarity": 0.01850000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "concept",
+      "similarity": 0.02019999921321869,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": -0.007400000002235174,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "belief",
+      "similarity": -0.027799999341368675,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "intuition",
+      "similarity": 0.0017999999690800905,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "consciousness",
+      "similarity": 0.007400000002235174,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "awareness",
+      "similarity": -0.022600000724196434,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "intelligence",
+      "similarity": 0.029999999329447746,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "cognition",
+      "similarity": 0.0340999998152256,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "memory",
+      "similarity": 0.06350000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "imagination",
+      "similarity": 0.07410000264644623,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "creativity",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "innovation",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "invention",
+      "similarity": 0.17479999363422394,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "discovery",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "technology",
+      "similarity": 0.07729999721050262,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "patent",
+      "similarity": 0.1160999983549118,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "creativity",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "resourcefulness",
+      "similarity": 0.02879999950528145,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "creativity",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "creativity",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "brainstorm",
+      "similarity": 0.04479999840259552,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "design",
+      "similarity": 0.14949999749660492,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "creation",
+      "similarity": 0.1445000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "artifact",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "device",
+      "similarity": 0.1088000014424324,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "gadget",
+      "similarity": 0.08290000259876251,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "machinery",
+      "similarity": 0.4074999988079071,
+      "rank": 369
+    },
+    {
+      "guess_number": 33,
+      "word": "engine",
+      "similarity": 0.2648000121116638,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "mechanism",
+      "similarity": 0.06750000268220901,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "equipment",
+      "similarity": 0.20970000326633453,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "machine",
+      "similarity": 0.3634999990463257,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "automaton",
+      "similarity": 0.2004999965429306,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "robot",
+      "similarity": 0.20909999310970306,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "automation",
+      "similarity": 0.12200000137090683,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "appliance",
+      "similarity": 0.2167000025510788,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "motor",
+      "similarity": 0.1647000014781952,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "contraption",
+      "similarity": 0.16500000655651093,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "hardware",
+      "similarity": 0.11659999936819077,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "industrial",
+      "similarity": 0.4117000102996826,
+      "rank": 318
+    },
+    {
+      "guess_number": 45,
+      "word": "factory",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 45,
+  "total_unique_guesses": 42
+}

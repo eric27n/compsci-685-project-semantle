@@ -1,0 +1,549 @@
+{
+  "game_id": 140,
+  "answer": "columnist",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.057500001043081284,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.065700002014637,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": 0.09809999912977219,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mood",
+      "similarity": 0.0714000016450882,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "passion",
+      "similarity": 0.2313999980688095,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "love",
+      "similarity": 0.1768999993801117,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "desire",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "romance",
+      "similarity": 0.13770000636577606,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "infatuation",
+      "similarity": 0.20069999992847443,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "attachment",
+      "similarity": -0.009999999776482582,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "adoration",
+      "similarity": 0.11649999767541885,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "devotion",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "obsession",
+      "similarity": 0.2815999984741211,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "attraction",
+      "similarity": 0.09130000323057175,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "yearning",
+      "similarity": 0.12559999525547028,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "fascination",
+      "similarity": 0.17659999430179596,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "crush",
+      "similarity": 0.005499999970197678,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "admiration",
+      "similarity": 0.13230000436306,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "obsession",
+      "similarity": 0.2815999984741211,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "intensity",
+      "similarity": 0.007600000128149986,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "longing",
+      "similarity": 0.17149999737739563,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "ardor",
+      "similarity": 0.1273999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "obsessive",
+      "similarity": 0.15620000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "fetish",
+      "similarity": 0.16019999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "enchantment",
+      "similarity": 0.06199999898672104,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "devotion",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "crush",
+      "similarity": 0.005499999970197678,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "intrigue",
+      "similarity": 0.06769999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "compulsion",
+      "similarity": 0.0746999979019165,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "emotion",
+      "similarity": 0.057500001043081284,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "emotion",
+      "similarity": 0.057500001043081284,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "zeal",
+      "similarity": 0.15780000388622284,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "commitment",
+      "similarity": -0.0027000000700354576,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "affection",
+      "similarity": 0.11010000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "addiction",
+      "similarity": 0.09539999812841415,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "craze",
+      "similarity": 0.14810000360012054,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "preoccupation",
+      "similarity": 0.23819999396800995,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "interest",
+      "similarity": 0.0568000003695488,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "idolization",
+      "similarity": 0.19329999387264252,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "devotion",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "desire",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "craving",
+      "similarity": 0.10199999809265137,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "attachment",
+      "similarity": -0.009999999776482582,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "obsessiveness",
+      "similarity": 0.10930000245571136,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "attachment",
+      "similarity": -0.009999999776482582,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "desire",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "devotion",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "desire",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "attachment",
+      "similarity": -0.009999999776482582,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "fanaticism",
+      "similarity": 0.19699999690055847,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "desire",
+      "similarity": 0.06539999693632126,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "compulsion",
+      "similarity": 0.0746999979019165,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "dedication",
+      "similarity": 0.013899999670684338,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "devotion",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "fixation",
+      "similarity": 0.1509000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "enthusiasm",
+      "similarity": 0.062199998646974564,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 90,
+  "total_unique_guesses": 40
+}

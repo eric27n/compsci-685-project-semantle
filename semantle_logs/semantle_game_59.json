@@ -1,0 +1,825 @@
+{
+  "game_id": 59,
+  "answer": "soar",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.006399999838322401,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.041999999433755875,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": -0.006599999964237213,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.04230000078678131,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "consciousness",
+      "similarity": -0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "intellect",
+      "similarity": 0.07900000363588333,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "knowledge",
+      "similarity": -0.04410000145435333,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "intelligence",
+      "similarity": -0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "cognition",
+      "similarity": -0.046300001442432404,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "awareness",
+      "similarity": 0.023499999195337296,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "perception",
+      "similarity": -0.00559999980032444,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "insight",
+      "similarity": 0.038600001484155655,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "wisdom",
+      "similarity": 0.031700000166893005,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "understanding",
+      "similarity": -0.0738999992609024,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "reason",
+      "similarity": 0.0012000000569969416,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "learning",
+      "similarity": -0.039000000804662704,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "intuition",
+      "similarity": 0.07050000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "subconscious",
+      "similarity": -0.008500000461935997,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "logic",
+      "similarity": 0.06729999929666519,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "philosophy",
+      "similarity": 0.0024999999441206455,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "imagination",
+      "similarity": 0.10899999737739563,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "idea",
+      "similarity": -0.08240000158548355,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "concept",
+      "similarity": -0.007000000216066837,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "ingenuity",
+      "similarity": 0.09830000251531601,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "artistry",
+      "similarity": 0.11050000041723251,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "expression",
+      "similarity": 0.019200000911951065,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "originality",
+      "similarity": 0.05139999836683273,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "craftsmanship",
+      "similarity": 0.08910000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "art",
+      "similarity": 0.05119999870657921,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "design",
+      "similarity": 0.046300001442432404,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "talent",
+      "similarity": 0.07609999924898148,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "skill",
+      "similarity": 0.0835999995470047,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "inspiration",
+      "similarity": 0.065700002014637,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "genius",
+      "similarity": 0.10130000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "inventiveness",
+      "similarity": 0.1145000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "brainstorming",
+      "similarity": -0.016100000590085983,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "intelligence",
+      "similarity": -0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "vision",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "aesthetics",
+      "similarity": 0.0430000014603138,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "adaptability",
+      "similarity": 0.0560000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "inventor",
+      "similarity": 0.0333000011742115,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "ingenuity",
+      "similarity": 0.09830000251531601,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "craft",
+      "similarity": 0.13030000030994415,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "creativity",
+      "similarity": 0.09889999777078629,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "craftsman",
+      "similarity": -0.01590000092983246,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "cleverness",
+      "similarity": 0.0649000033736229,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "mastery",
+      "similarity": 0.17520000040531158,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "artistic",
+      "similarity": 0.026599999517202377,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "expertise",
+      "similarity": 0.05790000036358833,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "proficiency",
+      "similarity": 0.05869999900460243,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "expert",
+      "similarity": 0.07819999754428864,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "technique",
+      "similarity": 0.003800000064074993,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "acumen",
+      "similarity": 0.09009999781847,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "aptitude",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "competence",
+      "similarity": 0.03020000085234642,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "intelligence",
+      "similarity": -0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "dexterity",
+      "similarity": 0.049400001764297485,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "aptitude",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "knack",
+      "similarity": 0.0868000015616417,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "ability",
+      "similarity": 0.0560000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "brilliance",
+      "similarity": 0.09279999881982803,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "expertise",
+      "similarity": 0.05790000036358833,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "perception",
+      "similarity": -0.00559999980032444,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "aptitude",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "ingenuity",
+      "similarity": 0.09830000251531601,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "innovation",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "dexterity",
+      "similarity": 0.049400001764297485,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "giftedness",
+      "similarity": -0.0015999999595806003,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "aptitude",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "accomplishment",
+      "similarity": 0.05550000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "dexterity",
+      "similarity": 0.049400001764297485,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "ingenuity",
+      "similarity": 0.09830000251531601,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "competency",
+      "similarity": 0.002300000051036477,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "aptitude",
+      "similarity": 0.050999999046325684,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "dexterity",
+      "similarity": 0.049400001764297485,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "accomplishment",
+      "similarity": 0.05550000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "adeptness",
+      "similarity": 0.05959999933838844,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "wizardry",
+      "similarity": 0.23649999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "wizard",
+      "similarity": 0.08860000222921371,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "alchemy",
+      "similarity": 0.13269999623298645,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "sorcery",
+      "similarity": 0.15790000557899475,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "enchantment",
+      "similarity": 0.11029999703168869,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "magic",
+      "similarity": 0.16380000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "spellcasting",
+      "similarity": 0.11980000138282776,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "supernatural",
+      "similarity": 0.06350000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "conjuring",
+      "similarity": 0.11550000309944153,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "power",
+      "similarity": 0.053300000727176666,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "miracle",
+      "similarity": 0.11339999735355377,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "witchcraft",
+      "similarity": 0.048500001430511475,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "sleight",
+      "similarity": 0.053700000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "occultism",
+      "similarity": 0.05640000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "sorcerer",
+      "similarity": 0.045899998396635056,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "mysticism",
+      "similarity": 0.02800000086426735,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "fantasy",
+      "similarity": 0.12229999899864197,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "illusionism",
+      "similarity": -0.016100000590085983,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "charisma",
+      "similarity": 0.0771000012755394,
+      "rank": -1
+    },
+    {
+      "guess_number": 114,
+      "word": "telekinesis",
+      "similarity": 0.11180000007152557,
+      "rank": -1
+    },
+    {
+      "guess_number": 115,
+      "word": "supernatural",
+      "similarity": 0.06350000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 116,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 117,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 118,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 119,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 120,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 121,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 122,
+      "word": "mystery",
+      "similarity": 0.09189999848604202,
+      "rank": -1
+    },
+    {
+      "guess_number": 123,
+      "word": "supernatural",
+      "similarity": 0.06350000202655792,
+      "rank": -1
+    },
+    {
+      "guess_number": 124,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 125,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 126,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 127,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 128,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 129,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 130,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 131,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 132,
+      "word": "telepathy",
+      "similarity": 0.07959999889135361,
+      "rank": -1
+    },
+    {
+      "guess_number": 133,
+      "word": "illusion",
+      "similarity": 0.058400001376867294,
+      "rank": -1
+    },
+    {
+      "guess_number": 134,
+      "word": "legerdemain",
+      "similarity": 0.08720000088214874,
+      "rank": -1
+    },
+    {
+      "guess_number": 135,
+      "word": "wizardry",
+      "similarity": 0.23649999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 136,
+      "word": "supernatural",
+      "similarity": 0.06350000202655792,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 136,
+  "total_unique_guesses": 86
+}

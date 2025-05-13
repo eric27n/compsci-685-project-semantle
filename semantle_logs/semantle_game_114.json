@@ -1,0 +1,579 @@
+{
+  "game_id": 114,
+  "answer": "company",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.030899999663233757,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "animal",
+      "similarity": 0.0949999988079071,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "object",
+      "similarity": 0.008700000122189522,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "nature",
+      "similarity": 0.05009999871253967,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "creature",
+      "similarity": 0.04190000146627426,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "plant",
+      "similarity": 0.39089998602867126,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "vegetation",
+      "similarity": 0.05490000173449516,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "tree",
+      "similarity": 0.059300001710653305,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "flower",
+      "similarity": 0.0560000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "herb",
+      "similarity": 0.0333000011742115,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "leaf",
+      "similarity": 0.03440000116825104,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "garden",
+      "similarity": 0.09300000220537186,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "botany",
+      "similarity": 0.06440000236034393,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "agriculture",
+      "similarity": 0.08749999850988388,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "orchard",
+      "similarity": 0.13920000195503235,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "seed",
+      "similarity": 0.04390000179409981,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "forest",
+      "similarity": 0.08340000361204147,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "shrubs",
+      "similarity": -0.01140000019222498,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "greenhouse",
+      "similarity": 0.09690000116825104,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "foliage",
+      "similarity": 0.05530000105500221,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "photosynthesis",
+      "similarity": 0.07440000027418137,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "crop",
+      "similarity": 0.0820000022649765,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "horticulture",
+      "similarity": 0.053700000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "botanical",
+      "similarity": 0.10159999877214432,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "ecosystem",
+      "similarity": 0.19280000030994415,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "habitat",
+      "similarity": 0.0729999989271164,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "shrubs",
+      "similarity": -0.01140000019222498,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "landscape",
+      "similarity": 0.10750000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "shrub",
+      "similarity": 0.05350000038743019,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "jungle",
+      "similarity": 0.05460000038146973,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "bush",
+      "similarity": -0.025299999862909317,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "bush",
+      "similarity": -0.025299999862909317,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "plantation",
+      "similarity": 0.1054999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "herbivore",
+      "similarity": 0.020500000566244125,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "biome",
+      "similarity": 0.03750000149011612,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "arboretum",
+      "similarity": 0.09319999814033508,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "nursery",
+      "similarity": 0.10320000350475311,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "garden",
+      "similarity": 0.09300000220537186,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "herbaceous",
+      "similarity": -0.0502999983727932,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "botanist",
+      "similarity": 0.0608999989926815,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "harvest",
+      "similarity": 0.054999999701976776,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "park",
+      "similarity": 0.09769999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "biodome",
+      "similarity": 0.04340000078082085,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "horticulture",
+      "similarity": 0.053700000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "gardening",
+      "similarity": 0.04800000041723251,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "flora",
+      "similarity": 0.032499998807907104,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "rainforest",
+      "similarity": 0.1256999969482422,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "conservation",
+      "similarity": 0.051500000059604645,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "biodiversity",
+      "similarity": 0.014999999664723873,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "biome",
+      "similarity": 0.03750000149011612,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 95,
+  "total_unique_guesses": 45
+}

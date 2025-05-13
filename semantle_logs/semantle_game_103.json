@@ -1,0 +1,519 @@
+{
+  "game_id": 103,
+  "answer": "landing",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.04699999839067459,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "animal",
+      "similarity": 0.029999999329447746,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "object",
+      "similarity": 0.1177000030875206,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "tool",
+      "similarity": -0.0017000000225380063,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": -0.00930000003427267,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "substance",
+      "similarity": 0.043299999088048935,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "material",
+      "similarity": 0.07519999891519547,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "artifact",
+      "similarity": 0.08590000122785568,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "device",
+      "similarity": 0.05380000174045563,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "equipment",
+      "similarity": 0.06109999865293503,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "furniture",
+      "similarity": 0.023399999365210533,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "instrument",
+      "similarity": 0.07819999754428864,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "technology",
+      "similarity": -0.03220000118017197,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "machine",
+      "similarity": 0.03759999945759773,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "structure",
+      "similarity": 0.0885000005364418,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "construction",
+      "similarity": 0.14980000257492065,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "building",
+      "similarity": 0.0843999981880188,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "architecture",
+      "similarity": -0.03180000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "factory",
+      "similarity": 0.03689999878406525,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "bridge",
+      "similarity": 0.07980000227689743,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "edifice",
+      "similarity": 0.050200000405311584,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "engine",
+      "similarity": 0.22660000622272491,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "vehicle",
+      "similarity": 0.10729999840259552,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "engineer",
+      "similarity": 0.07649999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "car",
+      "similarity": 0.0869000032544136,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "automobile",
+      "similarity": 0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "transportation",
+      "similarity": 0.1046999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "industrial",
+      "similarity": 0.07699999958276749,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "generator",
+      "similarity": 0.15440000593662262,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "motor",
+      "similarity": 0.10249999910593033,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "engineer",
+      "similarity": 0.07649999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "mechanism",
+      "similarity": 0.05530000105500221,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "turbine",
+      "similarity": 0.18569999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "power",
+      "similarity": 0.06120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "engineer",
+      "similarity": 0.07649999856948853,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "plant",
+      "similarity": 0.049300000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "machinery",
+      "similarity": -0.00019999999494757503,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 85,
+  "total_unique_guesses": 35
+}

@@ -1,0 +1,663 @@
+{
+  "game_id": 78,
+  "answer": "philosophical",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.2702000141143799,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.17489999532699585,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "mood",
+      "similarity": 0.19460000097751617,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sentiment",
+      "similarity": 0.13500000536441803,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "happiness",
+      "similarity": 0.23720000684261322,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "joy",
+      "similarity": 0.14830000698566437,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "thought",
+      "similarity": 0.22630000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "psychology",
+      "similarity": 0.2896000146865845,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "mind",
+      "similarity": 0.2395000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "consciousness",
+      "similarity": 0.3179999887943268,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "awareness",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "perception",
+      "similarity": 0.17870000004768372,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "intuition",
+      "similarity": 0.33399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "subconscious",
+      "similarity": 0.335099995136261,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "unconscious",
+      "similarity": 0.15680000185966492,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "subconsciousness",
+      "similarity": 0.3328999876976013,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "instinct",
+      "similarity": 0.2987000048160553,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "cognition",
+      "similarity": 0.23759999871253967,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "dream",
+      "similarity": 0.10239999741315842,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "subconscious",
+      "similarity": 0.335099995136261,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "unconsciousness",
+      "similarity": 0.15649999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "intuition",
+      "similarity": 0.33399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "subconsciousness",
+      "similarity": 0.3328999876976013,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "psyche",
+      "similarity": 0.28630000352859497,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "intuition",
+      "similarity": 0.33399999141693115,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "meditation",
+      "similarity": 0.3059000074863434,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "subconscious",
+      "similarity": 0.335099995136261,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "insight",
+      "similarity": 0.18029999732971191,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "memory",
+      "similarity": 0.038100000470876694,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "subconscious",
+      "similarity": 0.335099995136261,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "awareness",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "contemplation",
+      "similarity": 0.37119999527931213,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "reflection",
+      "similarity": 0.27900001406669617,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "self-awareness",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "introspection",
+      "similarity": 0.357699990272522,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "awareness",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "philosophy",
+      "similarity": 0.46209999918937683,
+      "rank": 98
+    },
+    {
+      "guess_number": 38,
+      "word": "wisdom",
+      "similarity": 0.3334999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "metaphysics",
+      "similarity": 0.5095000267028809,
+      "rank": 18
+    },
+    {
+      "guess_number": 40,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "dualism",
+      "similarity": 0.4648999869823456,
+      "rank": 85
+    },
+    {
+      "guess_number": 43,
+      "word": "epistemology",
+      "similarity": 0.4943999946117401,
+      "rank": 27
+    },
+    {
+      "guess_number": 44,
+      "word": "existentialism",
+      "similarity": 0.4991999864578247,
+      "rank": 24
+    },
+    {
+      "guess_number": 45,
+      "word": "metaphor",
+      "similarity": 0.3912999927997589,
+      "rank": 848
+    },
+    {
+      "guess_number": 46,
+      "word": "concept",
+      "similarity": 0.23409999907016754,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "idealism",
+      "similarity": 0.3824000060558319,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "phenomenology",
+      "similarity": 0.4560999870300293,
+      "rank": 124
+    },
+    {
+      "guess_number": 49,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "rationalism",
+      "similarity": 0.4334000051021576,
+      "rank": 240
+    },
+    {
+      "guess_number": 51,
+      "word": "transcendence",
+      "similarity": 0.40709999203681946,
+      "rank": 533
+    },
+    {
+      "guess_number": 52,
+      "word": "spirituality",
+      "similarity": 0.4341999888420105,
+      "rank": 233
+    },
+    {
+      "guess_number": 53,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "absurdism",
+      "similarity": 0.3767000138759613,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "nihilism",
+      "similarity": 0.38510000705718994,
+      "rank": 967
+    },
+    {
+      "guess_number": 58,
+      "word": "dialectic",
+      "similarity": 0.44929999113082886,
+      "rank": 155
+    },
+    {
+      "guess_number": 59,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "hermeneutics",
+      "similarity": 0.4645000100135803,
+      "rank": 88
+    },
+    {
+      "guess_number": 61,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "skepticism",
+      "similarity": 0.2337999939918518,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "mysticism",
+      "similarity": 0.4077000021934509,
+      "rank": 527
+    },
+    {
+      "guess_number": 65,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "agnosticism",
+      "similarity": 0.4320000112056732,
+      "rank": 260
+    },
+    {
+      "guess_number": 67,
+      "word": "cosmology",
+      "similarity": 0.382999986410141,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "logic",
+      "similarity": 0.3221000134944916,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "theology",
+      "similarity": 0.4065000116825104,
+      "rank": 546
+    },
+    {
+      "guess_number": 78,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "absurdity",
+      "similarity": 0.3684999942779541,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "esotericism",
+      "similarity": 0.40700000524520874,
+      "rank": 537
+    },
+    {
+      "guess_number": 84,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "absurd",
+      "similarity": 0.2773999869823456,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "ideal",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "ethics",
+      "similarity": 0.2379000037908554,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "existence",
+      "similarity": 0.15459999442100525,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "solipsism",
+      "similarity": 0.3116999864578247,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "ontology",
+      "similarity": 0.36340001225471497,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 109,
+  "total_unique_guesses": 59
+}

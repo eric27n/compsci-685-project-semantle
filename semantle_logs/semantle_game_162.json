@@ -1,0 +1,591 @@
+{
+  "game_id": 162,
+  "answer": "cheese",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.09309999644756317,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.11819999665021896,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.0868000015616417,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mind",
+      "similarity": 0.0348999984562397,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "idea",
+      "similarity": 0.08479999750852585,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "perception",
+      "similarity": 0.04050000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "sentiment",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "mood",
+      "similarity": 0.0940999984741211,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "consciousness",
+      "similarity": 0.05689999833703041,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intuition",
+      "similarity": 0.08179999887943268,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "awareness",
+      "similarity": 0.05290000140666962,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "affection",
+      "similarity": 0.12269999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "empathy",
+      "similarity": 0.12389999628067017,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "compassion",
+      "similarity": 0.10419999808073044,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "sympathy",
+      "similarity": 0.0502999983727932,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "love",
+      "similarity": 0.17599999904632568,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "care",
+      "similarity": 0.09200000017881393,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "heart",
+      "similarity": 0.11739999800920486,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "kindness",
+      "similarity": 0.10589999705553055,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "passion",
+      "similarity": 0.09520000219345093,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "romance",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "adore",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "admiration",
+      "similarity": 0.1046999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "adoration",
+      "similarity": 0.15160000324249268,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "affectionate",
+      "similarity": 0.10239999741315842,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "cherish",
+      "similarity": 0.09749999642372131,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "infatuation",
+      "similarity": 0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "friendship",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "fondness",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "emotions",
+      "similarity": 0.05849999934434891,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "amour",
+      "similarity": 0.16930000483989716,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "relationship",
+      "similarity": 0.053199999034404755,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "caring",
+      "similarity": 0.07400000095367432,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "attraction",
+      "similarity": 0.08079999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "friendship",
+      "similarity": 0.051100000739097595,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "infatuation",
+      "similarity": 0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "tenderness",
+      "similarity": 0.24490000307559967,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "intimacy",
+      "similarity": 0.11640000343322754,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "sympathy",
+      "similarity": 0.0502999983727932,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "amity",
+      "similarity": 0.08609999716281891,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "affinity",
+      "similarity": 0.08079999685287476,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "sympathy",
+      "similarity": 0.0502999983727932,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "adorable",
+      "similarity": 0.14839999377727509,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "warmth",
+      "similarity": 0.1128000020980835,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "harmony",
+      "similarity": 0.07249999791383743,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "appreciation",
+      "similarity": 0.10499999672174454,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "fond",
+      "similarity": 0.12200000137090683,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "happiness",
+      "similarity": 0.1597999930381775,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "endearment",
+      "similarity": 0.18029999732971191,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "attachment",
+      "similarity": 0.04899999871850014,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "devotion",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 97,
+  "total_unique_guesses": 47
+}

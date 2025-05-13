@@ -1,0 +1,519 @@
+{
+  "game_id": 167,
+  "answer": "habitat",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.056699998676776886,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.08049999922513962,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.08630000054836273,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.012000000104308128,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "mind",
+      "similarity": 0.0340999998152256,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "consciousness",
+      "similarity": 0.13449999690055847,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "awareness",
+      "similarity": 0.10440000146627426,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "perception",
+      "similarity": 0.09120000153779984,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "cognition",
+      "similarity": 0.21889999508857727,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intelligence",
+      "similarity": 0.08749999850988388,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "memory",
+      "similarity": 0.11990000307559967,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "learning",
+      "similarity": 0.16449999809265137,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "knowledge",
+      "similarity": 0.11249999701976776,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "reasoning",
+      "similarity": 0.10360000282526016,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "understanding",
+      "similarity": 0.14669999480247498,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "comprehension",
+      "similarity": 0.10909999907016754,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "analysis",
+      "similarity": 0.041200000792741776,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "philosophy",
+      "similarity": 0.017899999395012856,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "intuition",
+      "similarity": 0.06239999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "education",
+      "similarity": 0.15219999849796295,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "thinking",
+      "similarity": 0.0421999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "wisdom",
+      "similarity": 0.039799999445676804,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "cognitive",
+      "similarity": 0.16459999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "brain",
+      "similarity": 0.15469999611377716,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "neural",
+      "similarity": 0.18080000579357147,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "neuron",
+      "similarity": 0.21739999949932098,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "mindfulness",
+      "similarity": 0.17430000007152557,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "synapse",
+      "similarity": 0.1907999962568283,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "mental",
+      "similarity": 0.10440000146627426,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "neuroplasticity",
+      "similarity": 0.21220000088214874,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "neurology",
+      "similarity": 0.05770000070333481,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "neuroscience",
+      "similarity": 0.07810000330209732,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "neurotransmitter",
+      "similarity": 0.21150000393390656,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "behavior",
+      "similarity": 0.163100004196167,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "psychology",
+      "similarity": 0.03959999978542328,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 85,
+  "total_unique_guesses": 35
+}

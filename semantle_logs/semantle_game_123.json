@@ -1,0 +1,273 @@
+{
+  "game_id": 123,
+  "answer": "architect",
+  "found": true,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.06239999830722809,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.050700001418590546,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.05570000037550926,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.1873999983072281,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "notion",
+      "similarity": 0.06480000168085098,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "mind",
+      "similarity": 0.13490000367164612,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "knowledge",
+      "similarity": 0.04500000178813934,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "perception",
+      "similarity": 0.05429999902844429,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "understanding",
+      "similarity": 0.041999999433755875,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "belief",
+      "similarity": 0.045899998396635056,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "consciousness",
+      "similarity": -0.0024999999441206455,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "intellect",
+      "similarity": 0.12540000677108765,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "insight",
+      "similarity": 0.0568000003695488,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "philosophy",
+      "similarity": 0.18389999866485596,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "intelligence",
+      "similarity": 0.11569999903440475,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "theory",
+      "similarity": 0.10379999876022339,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "wisdom",
+      "similarity": 0.057100001722574234,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "creativity",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "imagination",
+      "similarity": 0.15690000355243683,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "abstraction",
+      "similarity": 0.24120000004768372,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "innovation",
+      "similarity": 0.14020000398159027,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "art",
+      "similarity": 0.20909999310970306,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "symbol",
+      "similarity": 0.16279999911785126,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "metaphor",
+      "similarity": 0.16369999945163727,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "cognition",
+      "similarity": 0.0284000001847744,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "creativity",
+      "similarity": 0.13940000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "expression",
+      "similarity": 0.05559999868273735,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "architecture",
+      "similarity": 0.5145999789237976,
+      "rank": 78
+    },
+    {
+      "guess_number": 30,
+      "word": "design",
+      "similarity": 0.4790000021457672,
+      "rank": 246
+    },
+    {
+      "guess_number": 31,
+      "word": "structure",
+      "similarity": 0.18379999697208405,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "engineering",
+      "similarity": 0.38850000500679016,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "urbanism",
+      "similarity": 0.36149999499320984,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "construction",
+      "similarity": 0.32109999656677246,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "urbanization",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "blueprint",
+      "similarity": 0.2962000072002411,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "infrastructure",
+      "similarity": 0.21330000460147858,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "building",
+      "similarity": 0.35429999232292175,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "urbanization",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "urban",
+      "similarity": 0.2110999971628189,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "urbanization",
+      "similarity": 0.12349999696016312,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "skyscraper",
+      "similarity": 0.28999999165534973,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "cityscape",
+      "similarity": 0.243599995970726,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "architect",
+      "similarity": 1.0,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 44,
+  "total_unique_guesses": 41
+}

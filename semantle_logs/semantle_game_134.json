@@ -1,0 +1,657 @@
+{
+  "game_id": 134,
+  "answer": "slot",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": -0.0031999999191612005,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "animal",
+      "similarity": -0.10769999772310257,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "object",
+      "similarity": 0.11569999903440475,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "concept",
+      "similarity": 0.05220000073313713,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "device",
+      "similarity": 0.07329999655485153,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "instrument",
+      "similarity": 0.08720000088214874,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "machine",
+      "similarity": 0.14480000734329224,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "tool",
+      "similarity": 0.015599999576807022,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "apparatus",
+      "similarity": 0.026599999517202377,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "technology",
+      "similarity": -0.0007999999797903001,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "gadget",
+      "similarity": 0.10180000215768814,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "robot",
+      "similarity": 0.03400000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "mechanism",
+      "similarity": 0.09880000352859497,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "appliance",
+      "similarity": 0.03799999877810478,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "contraption",
+      "similarity": 0.03970000147819519,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "engine",
+      "similarity": 0.061900001019239426,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "automaton",
+      "similarity": 0.03359999880194664,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "electronics",
+      "similarity": 0.043699998408555984,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "machinery",
+      "similarity": -0.054999999701976776,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "computer",
+      "similarity": 0.07590000331401825,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "widget",
+      "similarity": 0.1088000014424324,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "innovation",
+      "similarity": -0.00039999998989515007,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "artificial",
+      "similarity": -0.06319999694824219,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "sensor",
+      "similarity": 0.1120000034570694,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "cybernetics",
+      "similarity": -0.01600000075995922,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "automation",
+      "similarity": 0.02449999935925007,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "machine-learning",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "apparatus",
+      "similarity": 0.026599999517202377,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "machine-learning",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "system",
+      "similarity": 0.038100000470876694,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "automation",
+      "similarity": 0.02449999935925007,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "robotics",
+      "similarity": 0.0038999998942017555,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "motor",
+      "similarity": 0.05620000138878822,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "equipment",
+      "similarity": -0.03819999843835831,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "implement",
+      "similarity": -0.00839999970048666,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "interface",
+      "similarity": 0.13130000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "cyborg",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "network",
+      "similarity": 0.1573999971151352,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "processor",
+      "similarity": 0.1234000027179718,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "software",
+      "similarity": -0.015399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "algorithm",
+      "similarity": 0.11349999904632568,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "automation",
+      "similarity": 0.02449999935925007,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "processor",
+      "similarity": 0.1234000027179718,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "software",
+      "similarity": -0.015399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "automation",
+      "similarity": 0.02449999935925007,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "automation",
+      "similarity": 0.02449999935925007,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "software",
+      "similarity": -0.015399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "software",
+      "similarity": -0.015399999916553497,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "circuit",
+      "similarity": 0.22759999334812164,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "microchip",
+      "similarity": 0.06880000233650208,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "chip",
+      "similarity": 0.24789999425411224,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "microprocessor",
+      "similarity": 0.14489999413490295,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "semiconductor",
+      "similarity": 0.0860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "transistor",
+      "similarity": 0.1525000035762787,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "microcontroller",
+      "similarity": 0.22200000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "integrated",
+      "similarity": 0.04039999842643738,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "electronics",
+      "similarity": 0.043699998408555984,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "motherboard",
+      "similarity": 0.17260000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "electronic",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "microarchitecture",
+      "similarity": 0.07029999792575836,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "component",
+      "similarity": -0.006500000134110451,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "electronics",
+      "similarity": 0.043699998408555984,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "semiconductor",
+      "similarity": 0.0860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "silicon",
+      "similarity": 0.1251000016927719,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "artificial_intelligence",
+      "similarity": -0.019300000742077827,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "microelectronics",
+      "similarity": 0.02889999933540821,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "digital",
+      "similarity": 0.13099999725818634,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "controller",
+      "similarity": 0.2515000104904175,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "firmware",
+      "similarity": 0.12250000238418579,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "circuitry",
+      "similarity": 0.17569999396800995,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "hardware",
+      "similarity": 0.07370000332593918,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 108,
+  "total_unique_guesses": 58
+}

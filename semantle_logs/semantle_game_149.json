@@ -1,0 +1,525 @@
+{
+  "game_id": 149,
+  "answer": "publicity",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.16529999673366547,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.14730000495910645,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "happiness",
+      "similarity": 0.15049999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "joy",
+      "similarity": 0.09390000253915787,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "satisfaction",
+      "similarity": 0.10989999771118164,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "delight",
+      "similarity": 0.025599999353289604,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "contentment",
+      "similarity": 0.08100000023841858,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "pleasure",
+      "similarity": 0.08510000258684158,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "passion",
+      "similarity": 0.11190000176429749,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "excitement",
+      "similarity": 0.3206000030040741,
+      "rank": 217
+    },
+    {
+      "guess_number": 12,
+      "word": "thrill",
+      "similarity": 0.1363999992609024,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "anticipation",
+      "similarity": 0.21870000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "eagerness",
+      "similarity": 0.14059999585151672,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 16,
+      "word": "interest",
+      "similarity": 0.22689999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "fascination",
+      "similarity": 0.16200000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "exuberance",
+      "similarity": 0.11729999631643295,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "exhilaration",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "wonder",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "adventure",
+      "similarity": 0.0617000013589859,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "intrigue",
+      "similarity": 0.2581000030040741,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "boredom",
+      "similarity": 0.07400000095367432,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "excitement",
+      "similarity": 0.3206000030040741,
+      "rank": 217
+    },
+    {
+      "guess_number": 26,
+      "word": "surprise",
+      "similarity": 0.17749999463558197,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "motivation",
+      "similarity": 0.2240000069141388,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "anxiety",
+      "similarity": 0.16200000047683716,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "engagement",
+      "similarity": 0.16769999265670776,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "inspiration",
+      "similarity": 0.1632000058889389,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 32,
+      "word": "optimism",
+      "similarity": 0.1639000028371811,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "stimulus",
+      "similarity": 0.08129999786615372,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 36,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 37,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 38,
+      "word": "anticipation",
+      "similarity": 0.21870000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 40,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 42,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "exhilaration",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "wonderment",
+      "similarity": 0.010900000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "wonder",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 52,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 54,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 55,
+      "word": "exhilaration",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "eagerness",
+      "similarity": 0.14059999585151672,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 59,
+      "word": "wonder",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 62,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 64,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 68,
+      "word": "anticipation",
+      "similarity": 0.21870000660419464,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "wonder",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "curiosity",
+      "similarity": 0.28290000557899475,
+      "rank": 631
+    },
+    {
+      "guess_number": 72,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "curiousness",
+      "similarity": 0.17679999768733978,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "zeal",
+      "similarity": 0.16840000450611115,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "exhilaration",
+      "similarity": 0.043800000101327896,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "anticipate",
+      "similarity": 0.04690000042319298,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "enthusiast",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "wonder",
+      "similarity": 0.07859999686479568,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "energy",
+      "similarity": 0.09549999982118607,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "enthusiasm",
+      "similarity": 0.2451000064611435,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 86,
+  "total_unique_guesses": 36
+}

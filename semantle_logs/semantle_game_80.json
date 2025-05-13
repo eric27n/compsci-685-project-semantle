@@ -1,0 +1,651 @@
+{
+  "game_id": 80,
+  "answer": "mother",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.18559999763965607,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.15410000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "mood",
+      "similarity": 0.00860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "sentiment",
+      "similarity": 0.02800000086426735,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.12939999997615814,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "attitude",
+      "similarity": 0.13619999587535858,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": -0.013500000350177288,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "passion",
+      "similarity": 0.19920000433921814,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "desire",
+      "similarity": 0.1145000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "affection",
+      "similarity": 0.21140000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "love",
+      "similarity": 0.29249998927116394,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "romance",
+      "similarity": 0.2485000044107437,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "attraction",
+      "similarity": 0.0284000001847744,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "relationship",
+      "similarity": 0.17900000512599945,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "compassion",
+      "similarity": 0.2337000072002411,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "friendship",
+      "similarity": 0.25360000133514404,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "empathy",
+      "similarity": 0.17260000109672546,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "happiness",
+      "similarity": 0.19349999725818634,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "sympathy",
+      "similarity": 0.164000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "care",
+      "similarity": 0.1973000019788742,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "gratitude",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "trust",
+      "similarity": 0.05079999938607216,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "harmony",
+      "similarity": 0.07079999893903732,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "intimacy",
+      "similarity": 0.125900000333786,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "warmth",
+      "similarity": 0.17020000517368317,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "loyalty",
+      "similarity": 0.03370000049471855,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "attachment",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "altruism",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "admiration",
+      "similarity": 0.0925000011920929,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "amity",
+      "similarity": 0.06909999996423721,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "amity",
+      "similarity": 0.06909999996423721,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "caring",
+      "similarity": 0.3508000075817108,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "nurturing",
+      "similarity": 0.20649999380111694,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "support",
+      "similarity": 0.026599999517202377,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "consideration",
+      "similarity": -0.03139999881386757,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "supportiveness",
+      "similarity": 0.15600000321865082,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "altruism",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "tenderness",
+      "similarity": 0.22300000488758087,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "trustworthiness",
+      "similarity": 0.010099999606609344,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "affectionate",
+      "similarity": 0.28679999709129333,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "charity",
+      "similarity": 0.19169999659061432,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "fidelity",
+      "similarity": 0.021299999207258224,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "adoration",
+      "similarity": 0.13809999823570251,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "heartfelt",
+      "similarity": 0.2524999976158142,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "loyalty",
+      "similarity": 0.03370000049471855,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "compassionate",
+      "similarity": 0.20819999277591705,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "fondness",
+      "similarity": 0.16269999742507935,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "gratitude",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "sympathy",
+      "similarity": 0.164000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "appreciation",
+      "similarity": 0.026499999687075615,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "understanding",
+      "similarity": 0.08990000188350677,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "gratitude",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "connection",
+      "similarity": 0.13109999895095825,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "bond",
+      "similarity": 0.14229999482631683,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "altruism",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "gratitude",
+      "similarity": 0.13420000672340393,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "intimacy",
+      "similarity": 0.125900000333786,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "benevolence",
+      "similarity": 0.14499999582767487,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "affinity",
+      "similarity": 0.06620000302791595,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "kindness",
+      "similarity": 0.302700012922287,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "attachment",
+      "similarity": 0.11230000108480453,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "sympathy",
+      "similarity": 0.164000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "kind",
+      "similarity": 0.09399999678134918,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "sincerity",
+      "similarity": 0.12309999763965607,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "amity",
+      "similarity": 0.06909999996423721,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "devotion",
+      "similarity": 0.22120000422000885,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "sympathy",
+      "similarity": 0.164000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "emotional",
+      "similarity": 0.27230000495910645,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "benevolent",
+      "similarity": 0.08510000258684158,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "sympathy",
+      "similarity": 0.164000004529953,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "altruism",
+      "similarity": 0.1185000017285347,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "generosity",
+      "similarity": 0.14159999787807465,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 107,
+  "total_unique_guesses": 57
+}

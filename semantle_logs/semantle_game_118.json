@@ -1,0 +1,651 @@
+{
+  "game_id": 118,
+  "answer": "missing",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.17599999904632568,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "mood",
+      "similarity": 0.04280000180006027,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "thought",
+      "similarity": 0.11159999668598175,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "idea",
+      "similarity": -0.05689999833703041,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "sensation",
+      "similarity": 0.05849999934434891,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "experience",
+      "similarity": 0.011599999852478504,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "intuition",
+      "similarity": 0.0729999989271164,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "consciousness",
+      "similarity": 0.06069999933242798,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "awareness",
+      "similarity": 0.04780000075697899,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "mind",
+      "similarity": 0.05339999869465828,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "belief",
+      "similarity": -0.0003000000142492354,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "psychology",
+      "similarity": 0.04490000009536743,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "cognition",
+      "similarity": 0.05400000140070915,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "affection",
+      "similarity": 0.07069999724626541,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "imagination",
+      "similarity": 0.03779999911785126,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "empathy",
+      "similarity": 0.09690000116825104,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "insight",
+      "similarity": -0.060499999672174454,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "compassion",
+      "similarity": 0.08399999886751175,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "sympathy",
+      "similarity": 0.07029999792575836,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "happiness",
+      "similarity": 0.08649999648332596,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "love",
+      "similarity": 0.08749999850988388,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "passion",
+      "similarity": 0.04650000110268593,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "sensitivity",
+      "similarity": 0.022099999710917473,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "desire",
+      "similarity": 0.03610000014305115,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "sentimentality",
+      "similarity": 0.03420000150799751,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "understanding",
+      "similarity": 0.0007999999797903001,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "care",
+      "similarity": 0.05779999867081642,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "mindfulness",
+      "similarity": 0.03880000114440918,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "joy",
+      "similarity": 0.05959999933838844,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "emotion",
+      "similarity": 0.07999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "nostalgia",
+      "similarity": 0.08879999816417694,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "perception",
+      "similarity": -0.006300000008195639,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "experience",
+      "similarity": 0.011599999852478504,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "relationship",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "empathy",
+      "similarity": 0.09690000116825104,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "sadness",
+      "similarity": 0.09440000355243683,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "sentimentality",
+      "similarity": 0.03420000150799751,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "sentiment",
+      "similarity": -0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "grief",
+      "similarity": 0.10189999639987946,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "bereavement",
+      "similarity": 0.15360000729560852,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "sorrow",
+      "similarity": 0.07329999655485153,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "mourning",
+      "similarity": 0.2069000005722046,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "loss",
+      "similarity": 0.25189998745918274,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "remorse",
+      "similarity": 0.0812000036239624,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "hope",
+      "similarity": 0.09610000252723694,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "melancholy",
+      "similarity": 0.10819999873638153,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "pain",
+      "similarity": 0.11800000071525574,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "trauma",
+      "similarity": 0.08839999884366989,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "depression",
+      "similarity": 0.1265999972820282,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "anxiety",
+      "similarity": 0.0860000029206276,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "bereft",
+      "similarity": 0.3089999854564667,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "loneliness",
+      "similarity": 0.07349999994039536,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "solitude",
+      "similarity": 0.09839999675750732,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "bereaved",
+      "similarity": 0.1729000061750412,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "sorrow",
+      "similarity": 0.07329999655485153,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "suffering",
+      "similarity": 0.2648000121116638,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "heartache",
+      "similarity": 0.15039999783039093,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "anguish",
+      "similarity": 0.14110000431537628,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "heartbreak",
+      "similarity": 0.16130000352859497,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "tragedy",
+      "similarity": 0.17489999532699585,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "despair",
+      "similarity": 0.08160000294446945,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 107,
+  "total_unique_guesses": 57
+}

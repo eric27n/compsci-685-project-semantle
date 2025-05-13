@@ -1,0 +1,573 @@
+{
+  "game_id": 47,
+  "answer": "objective",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.07959999889135361,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.12229999899864197,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.12620000541210175,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.24940000474452972,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.2551000118255615,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "abstract",
+      "similarity": 0.13249999284744263,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "notion",
+      "similarity": 0.18379999697208405,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "principle",
+      "similarity": 0.3310999870300293,
+      "rank": 311
+    },
+    {
+      "guess_number": 9,
+      "word": "theory",
+      "similarity": 0.21379999816417694,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "belief",
+      "similarity": 0.28209999203681946,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "philosophy",
+      "similarity": 0.3075999915599823,
+      "rank": 752
+    },
+    {
+      "guess_number": 12,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "values",
+      "similarity": 0.18440000712871552,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "axiom",
+      "similarity": 0.22769999504089355,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "ideology",
+      "similarity": 0.26899999380111694,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "tenet",
+      "similarity": 0.35929998755455017,
+      "rank": 114
+    },
+    {
+      "guess_number": 18,
+      "word": "creed",
+      "similarity": 0.20360000431537628,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "dogma",
+      "similarity": 0.1931000053882599,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "mantra",
+      "similarity": 0.2930999994277954,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "maxim",
+      "similarity": 0.19939999282360077,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "morality",
+      "similarity": 0.15520000457763672,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "wisdom",
+      "similarity": 0.10639999806880951,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "truth",
+      "similarity": 0.26759999990463257,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "hypothesis",
+      "similarity": 0.2973000109195709,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "fundamental",
+      "similarity": 0.25209999084472656,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "paradigm",
+      "similarity": 0.2134000062942505,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "law",
+      "similarity": 0.07050000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "fundament",
+      "similarity": 0.12120000272989273,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "logic",
+      "similarity": 0.22050000727176666,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "faith",
+      "similarity": 0.1088000014424324,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "premise",
+      "similarity": 0.2506999969482422,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "ethics",
+      "similarity": 0.07259999960660934,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "postulate",
+      "similarity": 0.21950000524520874,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "motto",
+      "similarity": 0.29660001397132874,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "ethos",
+      "similarity": 0.26440000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "credo",
+      "similarity": 0.29660001397132874,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "principle",
+      "similarity": 0.3310999870300293,
+      "rank": 311
+    },
+    {
+      "guess_number": 49,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "assertion",
+      "similarity": 0.18520000576972961,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "principle",
+      "similarity": 0.3310999870300293,
+      "rank": 311
+    },
+    {
+      "guess_number": 57,
+      "word": "principle",
+      "similarity": 0.3310999870300293,
+      "rank": 311
+    },
+    {
+      "guess_number": 58,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "principle",
+      "similarity": 0.3310999870300293,
+      "rank": 311
+    },
+    {
+      "guess_number": 62,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "proposition",
+      "similarity": 0.26440000534057617,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "norm",
+      "similarity": 0.1145000010728836,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "belief_system",
+      "similarity": 0.0,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "canon",
+      "similarity": 0.07180000096559525,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "principles",
+      "similarity": 0.3269999921321869,
+      "rank": 360
+    },
+    {
+      "guess_number": 87,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "conviction",
+      "similarity": 0.14890000224113464,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "fundamentals",
+      "similarity": 0.2296999990940094,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "doctrine",
+      "similarity": 0.1898999959230423,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 94,
+  "total_unique_guesses": 44
+}

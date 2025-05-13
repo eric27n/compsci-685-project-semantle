@@ -1,0 +1,687 @@
+{
+  "game_id": 133,
+  "answer": "elephant",
+  "found": false,
+  "guesses": [
+    {
+      "guess_number": 1,
+      "word": "emotion",
+      "similarity": 0.07450000196695328,
+      "rank": -1
+    },
+    {
+      "guess_number": 2,
+      "word": "feeling",
+      "similarity": 0.0674000009894371,
+      "rank": -1
+    },
+    {
+      "guess_number": 3,
+      "word": "thought",
+      "similarity": 0.08940000087022781,
+      "rank": -1
+    },
+    {
+      "guess_number": 4,
+      "word": "idea",
+      "similarity": 0.08789999783039093,
+      "rank": -1
+    },
+    {
+      "guess_number": 5,
+      "word": "concept",
+      "similarity": 0.05339999869465828,
+      "rank": -1
+    },
+    {
+      "guess_number": 6,
+      "word": "memory",
+      "similarity": 0.04479999840259552,
+      "rank": -1
+    },
+    {
+      "guess_number": 7,
+      "word": "belief",
+      "similarity": 0.031300000846385956,
+      "rank": -1
+    },
+    {
+      "guess_number": 8,
+      "word": "mind",
+      "similarity": 0.030799999833106995,
+      "rank": -1
+    },
+    {
+      "guess_number": 9,
+      "word": "intelligence",
+      "similarity": 0.01119999960064888,
+      "rank": -1
+    },
+    {
+      "guess_number": 10,
+      "word": "perception",
+      "similarity": 0.1054999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 11,
+      "word": "consciousness",
+      "similarity": 0.05510000139474869,
+      "rank": -1
+    },
+    {
+      "guess_number": 12,
+      "word": "awareness",
+      "similarity": 0.05609999969601631,
+      "rank": -1
+    },
+    {
+      "guess_number": 13,
+      "word": "cognition",
+      "similarity": 0.009700000286102295,
+      "rank": -1
+    },
+    {
+      "guess_number": 14,
+      "word": "intuition",
+      "similarity": 0.08860000222921371,
+      "rank": -1
+    },
+    {
+      "guess_number": 15,
+      "word": "insight",
+      "similarity": 0.00419999985024333,
+      "rank": -1
+    },
+    {
+      "guess_number": 16,
+      "word": "understanding",
+      "similarity": 0.048900000751018524,
+      "rank": -1
+    },
+    {
+      "guess_number": 17,
+      "word": "sensation",
+      "similarity": 0.11389999836683273,
+      "rank": -1
+    },
+    {
+      "guess_number": 18,
+      "word": "impression",
+      "similarity": 0.08799999952316284,
+      "rank": -1
+    },
+    {
+      "guess_number": 19,
+      "word": "mindfulness",
+      "similarity": 0.07850000262260437,
+      "rank": -1
+    },
+    {
+      "guess_number": 20,
+      "word": "interpretation",
+      "similarity": 0.03929999843239784,
+      "rank": -1
+    },
+    {
+      "guess_number": 21,
+      "word": "awareness",
+      "similarity": 0.05609999969601631,
+      "rank": -1
+    },
+    {
+      "guess_number": 22,
+      "word": "analysis",
+      "similarity": 0.03840000182390213,
+      "rank": -1
+    },
+    {
+      "guess_number": 23,
+      "word": "recognition",
+      "similarity": -0.0032999999821186066,
+      "rank": -1
+    },
+    {
+      "guess_number": 24,
+      "word": "reflection",
+      "similarity": 0.03889999911189079,
+      "rank": -1
+    },
+    {
+      "guess_number": 25,
+      "word": "experience",
+      "similarity": -0.03869999945163727,
+      "rank": -1
+    },
+    {
+      "guess_number": 26,
+      "word": "realization",
+      "similarity": 0.09650000184774399,
+      "rank": -1
+    },
+    {
+      "guess_number": 27,
+      "word": "perception",
+      "similarity": 0.1054999977350235,
+      "rank": -1
+    },
+    {
+      "guess_number": 28,
+      "word": "notion",
+      "similarity": 0.10779999941587448,
+      "rank": -1
+    },
+    {
+      "guess_number": 29,
+      "word": "awareness",
+      "similarity": 0.05609999969601631,
+      "rank": -1
+    },
+    {
+      "guess_number": 30,
+      "word": "delusion",
+      "similarity": 0.13609999418258667,
+      "rank": -1
+    },
+    {
+      "guess_number": 31,
+      "word": "hallucination",
+      "similarity": 0.15410000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 32,
+      "word": "hallucination",
+      "similarity": 0.15410000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 33,
+      "word": "dream",
+      "similarity": 0.14239999651908875,
+      "rank": -1
+    },
+    {
+      "guess_number": 34,
+      "word": "imagination",
+      "similarity": 0.14090000092983246,
+      "rank": -1
+    },
+    {
+      "guess_number": 35,
+      "word": "vision",
+      "similarity": 0.048700001090765,
+      "rank": -1
+    },
+    {
+      "guess_number": 36,
+      "word": "hallucination",
+      "similarity": 0.15410000085830688,
+      "rank": -1
+    },
+    {
+      "guess_number": 37,
+      "word": "illusion",
+      "similarity": 0.19949999451637268,
+      "rank": -1
+    },
+    {
+      "guess_number": 38,
+      "word": "fantasy",
+      "similarity": 0.06769999861717224,
+      "rank": -1
+    },
+    {
+      "guess_number": 39,
+      "word": "mirage",
+      "similarity": 0.18459999561309814,
+      "rank": -1
+    },
+    {
+      "guess_number": 40,
+      "word": "phantasm",
+      "similarity": 0.1973000019788742,
+      "rank": -1
+    },
+    {
+      "guess_number": 41,
+      "word": "apparition",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 42,
+      "word": "specter",
+      "similarity": 0.13979999721050262,
+      "rank": -1
+    },
+    {
+      "guess_number": 43,
+      "word": "visionary",
+      "similarity": 0.06080000102519989,
+      "rank": -1
+    },
+    {
+      "guess_number": 44,
+      "word": "ghost",
+      "similarity": 0.3116999864578247,
+      "rank": -1
+    },
+    {
+      "guess_number": 45,
+      "word": "supernatural",
+      "similarity": 0.06620000302791595,
+      "rank": -1
+    },
+    {
+      "guess_number": 46,
+      "word": "spirit",
+      "similarity": 0.08169999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 47,
+      "word": "soul",
+      "similarity": 0.12960000336170197,
+      "rank": -1
+    },
+    {
+      "guess_number": 48,
+      "word": "entity",
+      "similarity": 0.06459999829530716,
+      "rank": -1
+    },
+    {
+      "guess_number": 49,
+      "word": "afterlife",
+      "similarity": 0.1559000015258789,
+      "rank": -1
+    },
+    {
+      "guess_number": 50,
+      "word": "superstition",
+      "similarity": 0.20829999446868896,
+      "rank": -1
+    },
+    {
+      "guess_number": 51,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 52,
+      "word": "haunting",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 53,
+      "word": "poltergeist",
+      "similarity": 0.21529999375343323,
+      "rank": -1
+    },
+    {
+      "guess_number": 54,
+      "word": "myth",
+      "similarity": 0.19480000436306,
+      "rank": -1
+    },
+    {
+      "guess_number": 55,
+      "word": "legend",
+      "similarity": 0.17839999496936798,
+      "rank": -1
+    },
+    {
+      "guess_number": 56,
+      "word": "ghostly",
+      "similarity": 0.16670000553131104,
+      "rank": -1
+    },
+    {
+      "guess_number": 57,
+      "word": "phenomenon",
+      "similarity": 0.13300000131130219,
+      "rank": -1
+    },
+    {
+      "guess_number": 58,
+      "word": "haunt",
+      "similarity": 0.10260000079870224,
+      "rank": -1
+    },
+    {
+      "guess_number": 59,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 60,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 61,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 62,
+      "word": "spirit",
+      "similarity": 0.08169999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 63,
+      "word": "apparition",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 64,
+      "word": "spirit",
+      "similarity": 0.08169999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 65,
+      "word": "spirit",
+      "similarity": 0.08169999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 66,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 67,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 68,
+      "word": "spectral",
+      "similarity": 0.006800000090152025,
+      "rank": -1
+    },
+    {
+      "guess_number": 69,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 70,
+      "word": "mystical",
+      "similarity": 0.1281999945640564,
+      "rank": -1
+    },
+    {
+      "guess_number": 71,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 72,
+      "word": "ethereal",
+      "similarity": 0.07339999824762344,
+      "rank": -1
+    },
+    {
+      "guess_number": 73,
+      "word": "occult",
+      "similarity": 0.025800000876188278,
+      "rank": -1
+    },
+    {
+      "guess_number": 74,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 75,
+      "word": "occult",
+      "similarity": 0.025800000876188278,
+      "rank": -1
+    },
+    {
+      "guess_number": 76,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 77,
+      "word": "spiritual",
+      "similarity": 0.06019999831914902,
+      "rank": -1
+    },
+    {
+      "guess_number": 78,
+      "word": "apparition",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 79,
+      "word": "esoteric",
+      "similarity": 0.026100000366568565,
+      "rank": -1
+    },
+    {
+      "guess_number": 80,
+      "word": "haunting",
+      "similarity": 0.10790000110864639,
+      "rank": -1
+    },
+    {
+      "guess_number": 81,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 82,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 83,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 84,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 85,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 86,
+      "word": "enigma",
+      "similarity": 0.1501999944448471,
+      "rank": -1
+    },
+    {
+      "guess_number": 87,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 88,
+      "word": "apparition",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 89,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 90,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 91,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 92,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 93,
+      "word": "haunted",
+      "similarity": 0.16040000319480896,
+      "rank": -1
+    },
+    {
+      "guess_number": 94,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 95,
+      "word": "apparition",
+      "similarity": 0.20669999718666077,
+      "rank": -1
+    },
+    {
+      "guess_number": 96,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 97,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 98,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 99,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 100,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 101,
+      "word": "mystery",
+      "similarity": 0.09769999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 102,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 103,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 104,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 105,
+      "word": "haunt",
+      "similarity": 0.10260000079870224,
+      "rank": -1
+    },
+    {
+      "guess_number": 106,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 107,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 108,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 109,
+      "word": "fiction",
+      "similarity": 0.027799999341368675,
+      "rank": -1
+    },
+    {
+      "guess_number": 110,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 111,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    },
+    {
+      "guess_number": 112,
+      "word": "mystery",
+      "similarity": 0.09769999980926514,
+      "rank": -1
+    },
+    {
+      "guess_number": 113,
+      "word": "paranormal",
+      "similarity": 0.028300000354647636,
+      "rank": -1
+    }
+  ],
+  "total_guesses": 113,
+  "total_unique_guesses": 63
+}
